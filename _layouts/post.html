@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="entry-container">
+	<div class='entry'>
+		<h1> {{page.title}} </h1>
+		<span class="postdate">{{ page.date | date: "%e %B, %Y"  }}
+			{% for tag in page.tags %}
+				<li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
+			{% endfor %}
+			
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="aeoth">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+		</span>
+		{{ content }}
+	</div>
+</div>
+<div id="page-navigation"> 
+	<div class="left"> {% if page.previous.url %} <a href="{{page.previous.id}}" title="Previous Post: {{page.previous.title}}">&larr; {{page.previous.title}}</a> {% endif %} </div> 
+	<div class="right"> {% if page.next.url %} <a href="{{page.next.id}}" title="next Post: {{page.next.title}}">{{page.next.title}} &rarr; </a> {% endif %} </div> 
+	<div class="clear">&nbsp;</div>
+</div> 
