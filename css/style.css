@@ -4,11 +4,9 @@ a, a:visited { text-decoration: none; color:#13678b;}
 a:hover { color:white; background: #13678b}
 ul { margin:0; padding:0;}
 li { margin:0; padding:0; list-style-type:none;}
-
-#side { float:right;color: #41b1e1; width:40%;}
-#side h1 { margin-left:0; font-size:25em; margin-left:-40px; margin-top:-70px;  margin-bottom:0px; line-height:1em;}
-#side h2 { margin-left:0; margin-left:-15px; margin-top:-20px;  margin-bottom:0px; line-height:1em; font-size:3em;}
-#side ul { margin-left:-10px; margin-top:50px; font-size:2em; padding:0;}
+#homelink:hover { background:none; }
+#side { float:right;color: #41b1e1; }
+#side ul { margin-top:50px; font-size:2em; padding:0;}
 #content { width:50%;}
 img
 {
@@ -18,14 +16,12 @@ img
   border: none;
 }
 
-/* mostly phones that are under 600px, so these should be safe */
-@media screen and (max-width:600px)
+@media screen and (max-width:750px)
 {
-	body { width:100%; margin:10px; }
+	body { width:auto; margin:10px; }
 	#content { width : 100%; }
 	#side { float:none; width:100%;}
-	#side h1 { font-size:4em; margin:0;}
-	#side h2 { font-size:1.5em; margin:0;}
 	#side ul { font-size:1em; padding:0px; margin:0px; margin-top:20px;}
 	#side li { display:inline; }
+	#homelink img { max-width:40%; }
 }

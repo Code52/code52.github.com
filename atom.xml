@@ -1,0 +1,29 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Code52</title>
+  <link href="http://www.Code52.org/"/>
+  <link type="application/atom+xml" rel="self" href="http://www.Code52.org/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://www.Code52.org/</id>
+  <author>
+    <name>Code52 Team</name>
+    <email>Code52@Code52.org</email>
+  </author>
+
+  {% for post in site.posts limit:10 %}
+  <entry>
+    <id>http://www.Code52.org/{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://www.Code52.org/{{ post.url }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Code52 Team</name>
+      <uri>http://www.Code52.org/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
