@@ -6,8 +6,8 @@
     <atom:link href="http://www.Code52.org/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>Fri, 16 Dec 2011 21:31:29 +1100</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2011 21:31:29 +1100</lastBuildDate>
+    <pubDate>Fri, 16 Dec 2011 22:02:51 +1100</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2011 22:02:51 +1100</lastBuildDate>
 
     
     <item>
@@ -16,24 +16,22 @@
       <pubDate>Sat, 31 Dec 2011 00:00:00 +1100</pubDate>
       <author>code52@code52.org (Code52 Team)</author>
       <guid>http://www.Code52.org/introduction</guid>
-      <description>&lt;p&gt;I don't know which one of my co-conspirators came up with the idea, but it all started with a simple premise:&lt;/p&gt;
+      <description>&lt;p&gt;This all started with a simple premise:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&quot;A new coding project every week&quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&quot;A new coding project every week&quot;&lt;/h2&gt;
 
-&lt;p&gt;Madness! Surely it couldn't be possible. What would that even involve?&lt;/p&gt;
-
-&lt;p&gt;I had so many questions, but as we discussed it we started to come to something resembling an agreement. We wanted to:&lt;/p&gt;
+&lt;p&gt;Madness! I was hooked and &lt;a href=&quot;http://dictionary.reference.com/browse/gobsmacked&quot;&gt;gobsmacked&lt;/a&gt; at the same time. I had so many questions, and as we discussed it we started to come to something resembling an agreement. We wanted to:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;introduce more developers to open-source projects and help them learn the ropes.&lt;/li&gt;
-&lt;li&gt;foster a community that encouraged contributions across a range of technologies.&lt;/li&gt;
-&lt;li&gt;work on projects which the community want to improve.&lt;/li&gt;
+&lt;li&gt;introduce developers to open-source projects and help them learn the ropes.&lt;/li&gt;
+&lt;li&gt;foster a community which encouraged contributions across a range of technologies.&lt;/li&gt;
+&lt;li&gt;work on projects which the community (i.e. YOU) want to improve.&lt;/li&gt;
 &lt;/ul&gt;
 
 
 &lt;p&gt; Of course, that doesn't get away from the original question I had.&lt;/p&gt;
 
-&lt;p&gt; &lt;strong&gt;Why a week?&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Why a week?&lt;/h2&gt;
 
 &lt;p&gt; A week isn't a long time - or it may be, depending on your perspective. This is still a somewhat contentious point within the group, but a week suits me because:&lt;/p&gt;
 
@@ -45,24 +43,24 @@
 &lt;/ul&gt;
 
 
+&lt;h2&gt;What next?&lt;/h2&gt;
+
 &lt;p&gt; But there are some things we need to address first:&lt;/p&gt;
-
-&lt;p&gt; &lt;strong&gt;What next?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We need to work out:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;how do we determine which projects to work on?&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Distributed_revision_control&quot;&gt;DVCS&lt;/a&gt; is still a relatively new concept - how can we help getting new developers familiar with it?&lt;/li&gt;
-&lt;li&gt;how do we organise each project? We want to give value both to the project owners and the contributors.&lt;/li&gt;
+&lt;li&gt;how do we organise each project?&lt;/li&gt;
+&lt;li&gt;how do we (as co-ordinators) deal with the skill gap between experienced and junior developers?&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;p&gt; We want to &lt;strong&gt;build fun stuff&lt;/strong&gt;, &lt;strong&gt;give back&lt;/strong&gt; to the projects who have helped us over the years, and &lt;strong&gt;create a community&lt;/strong&gt; around our crazy ideas.&lt;/p&gt;
+&lt;p&gt; We want to &lt;strong&gt;build fun stuff&lt;/strong&gt;, &lt;strong&gt;give back&lt;/strong&gt; to the projects who have helped us over the years, and &lt;strong&gt;create a community&lt;/strong&gt; around this crazy idea.  So whatever your background - if you want to get involved and work with others in the developer community, we'd love to hear from you.&lt;/p&gt;
 
-&lt;p&gt; So whatever your background and skillset, if you want to get involved and learn from others in the community, we'd love to hear from you.&lt;/p&gt;
+&lt;p&gt; Do you have an project which suits this idea? &lt;a href=&quot;http://code52.uservoice.org&quot;&gt;Vote on it&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt; So drop in on our &lt;a href=&quot;http://code52.uservoice.org&quot;&gt;UserVoice&lt;/a&gt; channel and suggest or vote on projects, discuss your ideas and suggestions on the &lt;a href=&quot;http://code52.tenderapp.com&quot;&gt;TenderApp&lt;/a&gt; site, and follow us on &lt;a href=&quot;http://twitter.com/code52_org&quot;&gt;Twitter&lt;/a&gt; to hear more about it.&lt;/p&gt;
+&lt;p&gt; Want to discuss your ideas and suggestions ?  &lt;a href=&quot;http://code52.tenderapp.com&quot;&gt;Share it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; Want to get in touch? Follow us on &lt;a href=&quot;http://twitter/code_52&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     

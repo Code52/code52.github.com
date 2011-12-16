@@ -9,7 +9,8 @@ li { margin:0; padding:0; list-style-type:none;}
 .entry li, .idea li{ margin-left:10px; list-style-type:circle;}
 #homelink:hover { background:none; }
 #side { float:right;color: #41b1e1; }
-#side ul { margin-top:50px; font-size:2em; padding:0;}
+#side .section { margin-top:50px; padding:0;}
+#side .section ul { font-size:2em; }
 #content { width:50%;}
 img
 {
@@ -28,3 +29,6 @@ img
 	#side li { display:inline; }
 	#homelink img { max-width:40%; }
 }
+
+.postdate { font-size: 0.8em; font-weight: bold; }
+.idea h1, .entry h1 { margin-bottom: 5px;}

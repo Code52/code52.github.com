@@ -4,21 +4,19 @@ title: "An introduction to code52"
 author: shiftkey
 ---
 
-I don't know which one of my co-conspirators came up with the idea, but it all started with a simple premise:
+This all started with a simple premise:
 
-**"A new coding project every week"**
+##"A new coding project every week"
 
-Madness! Surely it couldn't be possible. What would that even involve? 
+Madness! I was hooked and [gobsmacked](http://dictionary.reference.com/browse/gobsmacked) at the same time. I had so many questions, and as we discussed it we started to come to something resembling an agreement. We wanted to:
 
-I had so many questions, but as we discussed it we started to come to something resembling an agreement. We wanted to:
-
- - introduce more developers to open-source projects and help them learn the ropes.
- - foster a community that encouraged contributions across a range of technologies.
- - work on projects which the community want to improve.
+ - introduce developers to open-source projects and help them learn the ropes.
+ - foster a community which encouraged contributions across a range of technologies.
+ - work on projects which the community (i.e. YOU) want to improve.
 
  Of course, that doesn't get away from the original question I had. 
 
- **Why a week?**
+##Why a week?
 
  A week isn't a long time - or it may be, depending on your perspective. This is still a somewhat contentious point within the group, but a week suits me because:
 
@@ -27,21 +25,22 @@ I had so many questions, but as we discussed it we started to come to something 
  - more variety of projects to work on - something different each week.
  - with good organisation, each week should be productive out of the gate.
 
+
+##What next?
+
  But there are some things we need to address first:
 
- **What next?**
-
-We need to work out:
-
  - how do we determine which projects to work on?
- - [DVCS](http://en.wikipedia.org/wiki/Distributed_revision_control) is still a relatively new concept - how can we help getting new developers familiar with it?
- - how do we organise each project? We want to give value both to the project owners and the contributors.
+ - how do we organise each project? 
+ - how do we (as co-ordinators) deal with the skill gap between experienced and junior developers?
 
- We want to **build fun stuff**, **give back** to the projects who have helped us over the years, and **create a community** around our crazy ideas.
+ We want to **build fun stuff**, **give back** to the projects who have helped us over the years, and **create a community** around this crazy idea.  So whatever your background - if you want to get involved and work with others in the developer community, we'd love to hear from you.
 
- So whatever your background and skillset, if you want to get involved and learn from others in the community, we'd love to hear from you.
+ Do you have an project which suits this idea? [Vote on it](http://code52.uservoice.org)
 
- So drop in on our [UserVoice](http://code52.uservoice.org) channel and suggest or vote on projects, discuss your ideas and suggestions on the [TenderApp](http://code52.tenderapp.com) site, and follow us on [Twitter](http://twitter.com/code52_org) to hear more about it.
+ Want to discuss your ideas and suggestions ?  [Share it](http://code52.tenderapp.com) 
+
+ Want to get in touch? Follow us on [Twitter](http://twitter/code_52)!
 
 
  
