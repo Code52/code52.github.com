@@ -6,9 +6,19 @@
     <atom:link href="http://www.Code52.org/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>Wed, 14 Dec 2011 14:55:27 +1100</pubDate>
-    <lastBuildDate>Wed, 14 Dec 2011 14:55:27 +1100</lastBuildDate>
+    <pubDate>Fri, 16 Dec 2011 13:15:43 +1100</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2011 13:15:43 +1100</lastBuildDate>
 
+    
+    <item>
+      <title>An introduction to code52</title>
+      <link>http://www.Code52.org/introduction.html</link>
+      <pubDate>Sat, 31 Dec 2011 00:00:00 +1100</pubDate>
+      <author>code52@code52.org (Code52 Team)</author>
+      <guid>http://www.Code52.org/introduction</guid>
+      <description>
+</description>
+    </item>
     
     <item>
       <title>Idea 1: Cupcake ipsum dolor sit amet marshmallow.</title>

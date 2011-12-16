@@ -3,13 +3,26 @@
   <title>Code52</title>
   <link href="http://www.Code52.org/"/>
   <link type="application/atom+xml" rel="self" href="http://www.Code52.org/atom.xml"/>
-  <updated>2011-12-14T14:55:27+11:00</updated>
+  <updated>2011-12-16T13:15:43+11:00</updated>
   <id>http://www.Code52.org/</id>
   <author>
     <name>Code52 Team</name>
     <email>Code52@Code52.org</email>
   </author>
 
+  
+  <entry>
+    <id>http://www.Code52.org//introduction</id>
+    <link type="text/html" rel="alternate" href="http://www.Code52.org//introduction.html"/>
+    <title>An introduction to code52</title>
+    <updated>2011-12-31T00:00:00+11:00</updated>
+    <author>
+      <name>Code52 Team</name>
+      <uri>http://www.Code52.org/</uri>
+    </author>
+    <content type="html">
+</content>
+  </entry>
   
   <entry>
     <id>http://www.Code52.org//idea1</id>
