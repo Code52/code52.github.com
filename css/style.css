@@ -4,6 +4,9 @@ a, a:visited { text-decoration: none; color:#13678b;}
 a:hover { color:white; background: #13678b}
 ul { margin:0; padding:0;}
 li { margin:0; padding:0; list-style-type:none;}
+
+.entry ul, .idea ul { margin-left:10px; }
+.entry li, .idea li{ margin-left:10px; list-style-type:circle;}
 #homelink:hover { background:none; }
 #side { float:right;color: #41b1e1; }
 #side ul { margin-top:50px; font-size:2em; padding:0;}
