@@ -3,7 +3,7 @@
   <title>Code52</title>
   <link href="http://www.Code52.org/"/>
   <link type="application/atom+xml" rel="self" href="http://www.Code52.org/atom.xml"/>
-  <updated>2011-12-16T20:46:48+11:00</updated>
+  <updated>2011-12-16T21:12:09+11:00</updated>
   <id>http://www.Code52.org/</id>
   <author>
     <name>Code52 Team</name>
@@ -26,9 +26,7 @@
 
 &lt;p&gt;Madness! Surely it couldn't be possible. What would that even involve?&lt;/p&gt;
 
-&lt;p&gt;I had so many questions, but as we discussed it we started to come to something resembling an agreement.&lt;/p&gt;
-
-&lt;p&gt;We wanted to:&lt;/p&gt;
+&lt;p&gt;I had so many questions, but as we discussed it we started to come to something resembling an agreement. We wanted to:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;introduce more developers to open-source projects and help them learn the ropes.&lt;/li&gt;
@@ -41,27 +39,34 @@
 
 &lt;p&gt; &lt;strong&gt;Why a week?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt; A week isn't a long time - or it may be, depending on your perspective. This is still a somewhat contentious point within our group, but a week suits me because:&lt;/p&gt;
+&lt;p&gt; A week isn't a long time - or it may be, depending on your perspective. This is still a somewhat contentious point within the group, but a week suits me because:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;shorter timelines encourage achievable goals.&lt;/li&gt;
 &lt;li&gt;shorter timelines reduce the incentive to procrastinate.&lt;/li&gt;
 &lt;li&gt;more variety of projects to work on - something different each week.&lt;/li&gt;
-&lt;li&gt;with good organisation (i.e. us having our shit together), each week should be productive out of the gate.&lt;/li&gt;
+&lt;li&gt;with good organisation, each week should be productive out of the gate.&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;p&gt; And yes, we're anticipating some hurdles getting something like this off the ground.&lt;/p&gt;
+&lt;p&gt; But there are some things we need to address first:&lt;/p&gt;
 
-&lt;p&gt; &lt;strong&gt;What sort of hurdles?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;What next?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Given the variety of backgrounds and skillsets that developers have, we need to keep in mind:&lt;/p&gt;
+&lt;p&gt;We need to work out:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;how do we determine which projects to work on&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Distributed_revision_control&quot;&gt;DVCS&lt;/a&gt; is still a very new concept - how can we help getting new developers familiar with it&lt;/li&gt;
+&lt;li&gt;how do we determine which projects to work on?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Distributed_revision_control&quot;&gt;DVCS&lt;/a&gt; is still a relatively new concept - how can we help getting new developers familiar with it?&lt;/li&gt;
+&lt;li&gt;how do we organise each project? We want to give value both to the project owners and the contributors.&lt;/li&gt;
 &lt;/ul&gt;
 
+
+&lt;p&gt; We want to &lt;strong&gt;build fun stuff&lt;/strong&gt;, &lt;strong&gt;give back&lt;/strong&gt; to the projects who have helped us over the years, and &lt;strong&gt;create a community&lt;/strong&gt; around our crazy ideas.&lt;/p&gt;
+
+&lt;p&gt; So whatever your background and skillset, if you want to get involved and learn from others in the community, we'd love to hear from you.&lt;/p&gt;
+
+&lt;p&gt; So drop in on our &lt;a href=&quot;http://code52.uservoice.org&quot;&gt;UserVoice&lt;/a&gt; channel and suggest or vote on projects, discuss your ideas and suggestions on the &lt;a href=&quot;http://code52.tenderapp.com&quot;&gt;TenderApp&lt;/a&gt; site, and follow us on &lt;a href=&quot;http://twitter.com/code52_org&quot;&gt;Twitter&lt;/a&gt; to hear more about it.&lt;/p&gt;
 </content>
   </entry>
   
