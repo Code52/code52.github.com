@@ -1,7 +1,7 @@
---- 
+---
 layout: post
 title: About
-comments:false
+comments: false
 ---
 
 code52 started with a simple idea:
