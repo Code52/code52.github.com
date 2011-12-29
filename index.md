@@ -1,5 +1,6 @@
 ---
 layout : layout
+title : code52
 ---
 
 <ul class="ideas">
