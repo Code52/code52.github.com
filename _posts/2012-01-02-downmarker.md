@@ -21,6 +21,6 @@ One of our key goals is to give back to the community and all the source will be
 
 We'll review our progress in next week's post.
 
-You can also submit or vote on what the next project will be at our [uservoice](http://code52.uservoice.com/) site - we're happy to take any ideas for apps, tools, plugins or anything else that you think would be helpful and would like to crowdsource as an Open Source project :)
+You can also submit or vote on what the next project will be at our [UserVoice](http://code52.uservoice.com/) site - we're happy to take any ideas for apps, tools, plugins or anything else that you think would be helpful and would like to crowdsource as an Open Source project :)
 
 -- Code52 team
