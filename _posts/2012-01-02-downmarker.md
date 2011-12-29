@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Week 1: Downmarker WPF"
-author: @tobin and @aeoth
+author: "@tobin and @aeoth"
 comments: true
 ---
 
