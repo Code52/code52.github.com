@@ -2,6 +2,7 @@
 layout: post
 title: "Introducing code52"
 author: shiftkey
+comments: true
 ---
 
 This all started with a simple premise:
@@ -26,7 +27,7 @@ Madness! I was hooked and [gobsmacked](http://dictionary.reference.com/browse/go
  - with good organisation, each week should be productive out of the gate.
 
 
-##"What next?"
+##"What's next?"
 
  But there are some things we need to address first:
 
