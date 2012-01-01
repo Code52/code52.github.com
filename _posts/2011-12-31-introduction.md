@@ -41,7 +41,7 @@ Madness! I was hooked and [gobsmacked](http://dictionary.reference.com/browse/go
 
  Want to discuss your ideas and suggestions?  [Share it](http://code52.tenderapp.com) 
 
- Want to get in touch? Follow us on [Twitter](http://twitter/code_52)!
+ Want to get in touch? Follow us on [Twitter](http://twitter.com/code_52)!
 
 
  
