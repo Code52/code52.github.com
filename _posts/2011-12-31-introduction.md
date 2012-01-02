@@ -37,7 +37,7 @@ Madness! I was hooked and [gobsmacked](http://dictionary.reference.com/browse/go
 
  We want to **build fun stuff**, **give back** to the projects which have been useful to us, and potentially **create a community** around this crazy idea.  So whatever your background - if you want to get involved and work with others in the developer community, we'd love to hear from you.
 
- Do you have an project which suits this idea? [Vote on it](http://code52.uservoice.org)
+ Do you have an project which suits this idea? [Vote on it](http://code52.uservoice.com)
 
  Want to discuss your ideas and suggestions?  [Share it](http://code52.tenderapp.com) 
 

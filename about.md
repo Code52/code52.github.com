@@ -26,7 +26,7 @@ We're still nailing down the details at the moment, but in particular:
 
 ##How can I find out more?
 
-You can nominate and vote for projects on our [Uservoice](http://code52.uservoice.org) site.
+You can nominate and vote for projects on our [Uservoice](http://code52.uservoice.com) site.
 
 Discussions, ideas and suggestions can be posted on our [TenderApp](http://code52.tenderapp.com) site.
 

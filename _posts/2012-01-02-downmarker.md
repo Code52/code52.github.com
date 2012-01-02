@@ -3,6 +3,7 @@ layout: post
 title: "Week 1: Downmarker WPF"
 author: "@tobin and @aeoth"
 comments: true
+date: 2012-01-03
 ---
 
 Our first run out of the gate is a project that a few people have taken a stab at in the past, and will help us blog easier.
