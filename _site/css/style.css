@@ -1,5 +1,7 @@
 body{ font-family: Segoe UI, sans-serif; margin-left:auto; margin-right: auto; width:1100px; }
-h1,h2,h3,h4,h5,h6{ font-weight:lighter; }
+h1,h2,h3,h4,h5,h6{ font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; font-weight:lighter; margin-bottom:0px; }
+h1 { font-size: 3em;}
+h2 { font-size: 2.5em;}
 a, a:visited { text-decoration: none; color:#13678b;}
 a:hover { color:white; background: #13678b}
 ul { margin:0; padding:0;}
