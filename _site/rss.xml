@@ -6,9 +6,37 @@
     <atom:link href="http://www.Code52.org/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>Thu, 29 Dec 2011 22:10:22 +1100</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2011 22:10:22 +1100</lastBuildDate>
+    <pubDate>Fri, 30 Dec 2011 11:18:08 +1100</pubDate>
+    <lastBuildDate>Fri, 30 Dec 2011 11:18:08 +1100</lastBuildDate>
 
+    
+    <item>
+      <title>Week 1: Downmarker WPF</title>
+      <link>http://www.Code52.org/downmarker.html</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +1100</pubDate>
+      <author>code52@code52.org (Code52 Team)</author>
+      <guid>http://www.Code52.org/downmarker</guid>
+      <description>&lt;p&gt;Our first run out of the gate is a project that a few people have taken a stab at in the past, and will help us blog easier.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://bitbucket.org/wcoenen/downmarker&quot;&gt;Downmarker&lt;/a&gt; project is an editor for  &lt;a href=&quot;http://en.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt; a widely used syntax for formatting plain text to convert to blogs, comments, and in other places like on &lt;a href=&quot;http://stackoverflow.com/&quot;&gt;Stack Overflow&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our aim is to create a useably, stylish new version of the project utilising Microsoft's WPF technology to provide a fresh UI for creating files that we can use to create blog posts for this, and other blogs using Markdown.&lt;/p&gt;
+
+&lt;p&gt;We will be discussing this on our &lt;a href=&quot;http://talk.code52.org/discussions/projects/2-downmarker-wpf&quot;&gt;TenderApp discussions&lt;/a&gt;  but you can also ping us on &lt;a href=&quot;http://twitter.com/code_52&quot;&gt;Twitter&lt;/a&gt; to volunteer or have a word with us on &lt;a href=&quot;http://jabbr.net/#/rooms/code52&quot;&gt;Jabbr&lt;/a&gt; if we're around.&lt;/p&gt;
+
+&lt;p&gt;As will be our usual scenario - we'll be dedicating this week to kickstarting this project, which may of course go on for more than a week, but our aim is to try to get what we can sorted and organised, and hopefully coded this week to start momentum on this as a full tool in the future.&lt;/p&gt;
+
+&lt;p&gt;Many hands make light work we hope you'll put your hand up to participate on the above methods, we're more than happy for you to do as much as you're willing to do to help us.&lt;/p&gt;
+
+&lt;p&gt;One of our key goals is to give back to the community and all the source will be under an open source license and available at &lt;a href=&quot;https://github.com/Code52/DownmarkerWPF&quot;&gt;our Github repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We'll review our progress in next week's post.&lt;/p&gt;
+
+&lt;p&gt;You can also submit or vote on what the next project will be at our &lt;a href=&quot;http://code52.uservoice.com/&quot;&gt;UserVoice&lt;/a&gt; site - we're happy to take any ideas for apps, tools, plugins or anything else that you think would be helpful and would like to crowdsource as an Open Source project :)&lt;/p&gt;
+
+&lt;p&gt;-- Code52 team&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introducing code52</title>
