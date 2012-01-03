@@ -10,6 +10,10 @@ code52 started with a simple idea:
 
 We want to **build fun stuff** in our spare time, **give back** to projects which need support, and **create a community** which is inclusive and engaging. 
 
+##Who's behind this idea?
+
+We are (in alphabetical order) [Andrew Tobin](http://twitter.com/tobin), [Brendan Forster](http://twitter.com/shiftkey) and [Paul Jenkins](http://twitter.com/aeoth). 
+
 Particular goals we want to achieve:
 
  - introduce developers to open-source projects and help them learn the ropes.
