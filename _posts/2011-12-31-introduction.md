@@ -2,6 +2,7 @@
 layout: post
 title: "Introducing code52"
 author: shiftkey
+comments: true
 ---
 
 This all started with a simple premise:
@@ -33,7 +34,6 @@ We want to:
  - more variety of projects to work on over a period of time.
  - with good organisation, each week should be productive out of the gate.
 
-
 ##What next?
 
  But there are some things we need to address first:
@@ -44,11 +44,11 @@ We want to:
 
  We want to **build fun stuff**, **give back** to the projects which have been useful to us, and potentially **create a community** around this crazy idea.  So whatever your background - if you want to get involved and work with others in the developer community, we'd love to hear from you.
 
- Do you have an project which suits this idea? [Vote on it](http://code52.uservoice.org)
+ Do you have an project which suits this idea? [Vote on it](http://code52.uservoice.com)
 
  Want to discuss your ideas and suggestions?  [Share it](http://code52.tenderapp.com) 
 
- Want to get in touch? Follow us on [Twitter](http://twitter/code_52)!
+ Want to get in touch? Follow us on [Twitter](http://twitter.com/code_52)!
 
 
  

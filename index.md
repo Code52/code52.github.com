@@ -22,7 +22,7 @@ title : code52
 					<br />
 					<a href="{{ post.id }}#disqus_thread">Comments</a>
 				{% else %}
-					<h3><a class="postlink" href="{{ post.id }}">{{ post.title }}</a></h3>
+					<h2><a class="postlink" href="{{ post.id }}">{{ post.title }}</a></h2>
 					<div class="postdate">{{ post.date | date: "%e %B, %Y"  }}
 						<ul>
 						{% for tag in post.tags %}
@@ -30,9 +30,7 @@ title : code52
 						{% endfor %}
 						</ul>
 					</div>
-					{% if post.description != null %}
-						<span class="postsummary">{{ post.description }}</span><br/ >
-					{% endif %}
+					{{ post.content }}
 					
 					<a href="{{ post.id }}#disqus_thread">Comments</a>
 				{% endif %}
