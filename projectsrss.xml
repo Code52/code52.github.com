@@ -12,8 +12,8 @@ layout: nil
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
-    {% for post in site.posts %}
-	{% if post.feed != "project" %}
+    {% for post in site.posts limit:10 %}
+	{% if post.feed == "project" %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>http://www.Code52.org{{ post.url }}</link>
@@ -22,7 +22,7 @@ layout: nil
       <guid>http://www.Code52.org{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
-	{% endif %}
+	{% endif%}
     {% endfor %}
 
   </channel> 
