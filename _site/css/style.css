@@ -10,10 +10,10 @@ li { margin:0; padding:0; list-style-type:none;}
 .entry ul, .idea ul { margin-left:10px; }
 .entry li, .idea li{ margin-left:10px; list-style-type:circle;}
 #homelink:hover { background:none; }
-#side { float:right;color: #41b1e1; }
+#side { float:right;color: #41b1e1; margin-left:50px; }
 #side .section { margin-top:50px; padding:0;}
 #side .section ul { font-size:2em; }
-#content { width:50%;}
+#content { width:auto;}
 img
 {
   width: auto !important;
