@@ -13,7 +13,7 @@ h1,h2,h3,h4,h5,h6
 }
 h1 
 { 
-	font-size: 3em;
+	font-size: 4em;
 }
 h2 
 { 
@@ -49,7 +49,8 @@ li
 	margin-left:10px; 
 	list-style-type:circle;
 }
-#homelink:hover 
+#hometext a { font-size: 2em; margin-left: 5px; margin-right:10px; display: none; color: #41B1E1; font-weight: normal;  }
+#home:hover 
 { 
 	background:none; 
 }
@@ -90,27 +91,15 @@ img
 }
 
 /* min-device-width: 800px instead? */
-/* TODO: remove blue and red colours once happy with layouts */
 @media screen and (max-width:900px)
 {
-	body { width:auto; margin:10px; color: blue; }
+	body { width:auto; margin:10px; }
 	#content { width : 100%; }
 	#side { float:none; width:100%; margin-left:0px; }
-	#side .section { margin-top:0; float: right; }
-	#side ul { font-size:1em; padding:0px; margin:0px; margin-top:20px; margin-right: 20px;}
-	#side li {  }
-	#homelink { float:left; }
-	#homelink img { margin-left: auto; margin-right:auto; }
-	#content { float: left; }
-}
-
-@media screen and (max-width:480px)
-{
-	body { width:auto; margin:10px; color: red; }
-	#content { width : 100%; }
-	#side { float:none; width:100%; margin-left:0px; }
-	#side .section { margin-top:0; }
-	#side ul { font-size:1em; padding:0px; margin:0px; margin-top:20px;}
-	#side li { display:inline; }
-	#homelink img { max-width:40%; margin-left: auto; margin-right: auto; }
+	#side .section { margin-top:0; margin-right: 30px; }
+	#side .section ul { font-size:1.2em; padding:0px; margin:5px; }
+	#side li { display: inline; margin-left:3px; margin-right: 3px; font-weight: normal; }
+	#home { display: none;  }
+	#hometext a { display: inline;  }
+	h1 { margin-top: -0px;}
 }
