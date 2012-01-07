@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Contributing to Code52 projects
-date: 2012-01-07
 ---
 
 ##How do I contribute?
