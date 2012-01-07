@@ -1,36 +1,114 @@
-body{ font-family: Segoe UI, sans-serif; margin-left:auto; margin-right: auto; width:1100px; }
-h1,h2,h3,h4,h5,h6{ font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; font-weight:lighter; margin-bottom:0px; }
-h1 { font-size: 3em;}
-h2 { font-size: 2.5em;}
-a, a:visited { text-decoration: none; color:#13678b;}
-a:hover { color:white; background: #13678b}
-ul { margin:0; padding:0;}
-li { margin:0; padding:0; list-style-type:none;}
-
-.entry ul, .idea ul { margin-left:10px; }
-.entry li, .idea li{ margin-left:10px; list-style-type:circle;}
-#homelink:hover { background:none; }
-#side { float:right;color: #41b1e1; margin-left:50px; }
-#side .section { margin-top:50px; padding:0;}
-#side .section ul { font-size:2em; }
-#content { width:auto;}
+body 
+{ 
+	font-family: Segoe UI, sans-serif; 
+	margin-left:auto; 
+	margin-right: auto;
+	width:1100px; 
+}
+h1,h2,h3,h4,h5,h6 
+{ 
+	font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; 
+	font-weight: lighter; 
+	margin-bottom:0px; 
+}
+h1 
+{ 
+	font-size: 3em;
+}
+h2 
+{ 
+	font-size: 2.5em;
+}
+a, a:visited 
+{ 
+	text-decoration: none; 
+	color:#13678b;
+}
+a:hover 
+{
+	color:white; 
+	background: #13678b
+}
+ul 
+{
+	margin:0; 
+	padding:0;
+}
+li 
+{ 
+	margin:0; 
+	padding:0; 
+	list-style-type:none;
+}
+.entry ul, .idea ul 
+{
+	margin-left:10px; 
+}
+.entry li, .idea li 
+{
+	margin-left:10px; 
+	list-style-type:circle;
+}
+#homelink:hover 
+{ 
+	background:none; 
+}
+#side 
+{ 
+	float:right; 
+	color: #41b1e1; 
+	margin-left:50px; 
+}
+#side .section 
+{ 
+	margin-top:50px; 
+	padding:0;
+}
+#side .section ul 
+{ 
+	font-size:2em;
+}
+#content 
+{
+	width:auto;
+}
 img
 {
-  width: auto !important;
-  height: auto !important;
-  max-width: 100%;
+  width: auto !important; 
+  height: auto !important; 
+  max-width: 100%; 
   border: none;
 }
-
-@media screen and (max-width:750px)
+.postdate 
+{ 
+	font-size: 0.8em; 
+	font-weight: bold; 
+}
+.idea h1, .entry h1 
 {
-	body { width:auto; margin:10px; }
+	margin-bottom: 5px;
+}
+
+/* min-device-width: 800px instead? */
+/* TODO: remove blue and red colours once happy with layouts */
+@media screen and (max-width:900px)
+{
+	body { width:auto; margin:10px; color: blue; }
 	#content { width : 100%; }
-	#side { float:none; width:100%;}
+	#side { float:none; width:100%; margin-left:0px; }
+	#side .section { margin-top:0; }
 	#side ul { font-size:1em; padding:0px; margin:0px; margin-top:20px;}
 	#side li { display:inline; }
 	#homelink img { max-width:40%; }
 }
 
-.postdate { font-size: 0.8em; font-weight: bold; }
-.idea h1, .entry h1 { margin-bottom: 5px;}
+@media screen and (max-width:480px)
+{
+	body { width:auto; margin:10px; color: red; }
+	#content { width : 100%; }
+	#side { float:none; width:100%; margin-left:0px; }
+	#side .section { margin-top:0; }
+	#side ul { font-size:1em; padding:0px; margin:0px; margin-top:20px;}
+	#side li { display:inline; }
+	#homelink img { max-width:40%; }
+}
