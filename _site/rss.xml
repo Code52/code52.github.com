@@ -6,10 +6,17 @@
     <atom:link href="http://www.Code52.org/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>Sun, 08 Jan 2012 13:29:45 +1100</pubDate>
-    <lastBuildDate>Sun, 08 Jan 2012 13:29:45 +1100</lastBuildDate>
+    <pubDate>Sun, 08 Jan 2012 13:35:01 +1100</pubDate>
+    <lastBuildDate>Sun, 08 Jan 2012 13:35:01 +1100</lastBuildDate>
 
     
+	
+    
+	
+    
+	
+    
+	
     <item>
       <title>Week 1: Downmarker WPF</title>
       <link>http://www.Code52.org/downmarker.html</link>
@@ -37,7 +44,9 @@
 &lt;p&gt;-- Code52 team&lt;/p&gt;
 </description>
     </item>
+	
     
+	
     <item>
       <title>Introducing code52</title>
       <link>http://www.Code52.org/introduction.html</link>
@@ -99,6 +108,7 @@
 &lt;p&gt; Want to get in touch? Follow us on &lt;a href=&quot;http://twitter.com/code_52&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
+	
     
 
   </channel> 
