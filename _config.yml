@@ -1,3 +1,4 @@
 permalink: /:title.html
 auto: true
 markdown: rdiscount
+exclude: rakefile.rb, server.bat, config.ru

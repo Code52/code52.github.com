@@ -3,4 +3,4 @@ layout: post
 title: Previous Projects
 ---
 
-[DownmarkerWPF](http://www.github.com/code52/DownmarkerWPF)
+[MarkPad](http://code52.org/DownmarkerWPF/)
