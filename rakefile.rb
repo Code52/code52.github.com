@@ -1,8 +1,8 @@
 #Derived from https://github.com/avdgaag/arjanvandergaag.nl/blob/28539bc736a05b28f2aa4ef81e4f61f3f91375a0/Rakefile
 task :default => :dev
 
-MY_URL = "http://www.brendanforster.com"
-MY_NAME = "Brendan Forster"
+MY_URL = "http://www.code52.org"
+MY_NAME = "code52 team"
 
 desc 'Ping pingomatic'
 task :ping do
