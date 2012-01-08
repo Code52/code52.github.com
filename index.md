@@ -8,7 +8,7 @@ title : code52
 		<li>
 			<div class="idea">
 				{% if forloop.first and post.layout == "post" %}
-					<h1><a href="{{ post.id }}">{{ post.title }}</a></h1>
+					<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 					
 					<div class="postdate">{{ post.date | date: "%e %B, %Y"  }}
 						<ul>
@@ -20,9 +20,9 @@ title : code52
 					
 					{{ post.content }}
 					<br />
-					<a href="{{ post.id }}#disqus_thread">Comments</a>
+					<a href="{{ post.url}}#disqus_thread">Comments</a>
 				{% else %}
-					<h2><a class="postlink" href="{{ post.id }}">{{ post.title }}</a></h2>
+					<h2><a class="postlink" href="{{ post.url }}">{{ post.title }}</a></h2>
 					<div class="postdate">{{ post.date | date: "%e %B, %Y"  }}
 						<ul>
 						{% for tag in post.tags %}
@@ -32,7 +32,7 @@ title : code52
 					</div>
 					{{ post.content }}
 					
-					<a href="{{ post.id }}#disqus_thread">Comments</a>
+					<a href="{{ post.url }}#disqus_thread">Comments</a>
 				{% endif %}
 			</div>
 		</li>
