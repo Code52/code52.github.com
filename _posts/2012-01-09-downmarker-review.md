@@ -30,6 +30,8 @@ The road doesn't end here, we'll be bringing a new project tomorrow and we hope 
 
 If you have an idea for a project please pop into our chat room at [Jabber/Code52](http://jabbr.net/#/rooms/code52) or of course on our [UserVoice](https://code52.uservoice.com/forums/143105-code-52).
 
+<iframe width="853" height="480" src="http://www.youtube.com/embed/59ip0yzT9Ro?hd=1" frameborder="0" allowfullscreen></iframe> 
+
 Of course we hope MarkPad lives on, and so if you're interested in reading some code or submitting some, please check out the [repository on Github](https://github.com/Code52/DownmarkerWPF).
 
 ![](/img/week1-wrapup-about.png)
