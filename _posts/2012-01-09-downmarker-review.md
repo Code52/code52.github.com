@@ -14,7 +14,7 @@ So we'd like to present to you **MarkPad**.
 
 It comes with all the features you'd expect, and as you can see from the screenshot it includes an edit panel, live render, and the ability to push and pull posts from a MetaWeblog API endpoint (for blogs such as [Funnelweb](http://funnelweblog.com)).
 
-You can find it available for download on its [own site here](http://code52.org/DownmarkerWPF).
+**[Try out the preview build](https://github.com/downloads/Code52/DownmarkerWPF/Markpad.1.0rc.zip)** and provide us [feedback](https://github.com/Code52/DownmarkerWPF/issues), or browse the source [here](https://github.com/Code52/DownmarkerWPF)
 
 We'd like to thank everyone that came on board, and we had quite a few people who delivered great code all week, and a few who came in to deliver a feature here and there - and we can't thank you guys enough - you made this possible. We'd also like to thank [Chris Lindhartsen](http://clindhartsen.deviantart.com/art/Focus-Text-Editor-176271501) for permitting us to use his "Focus" metro-text editor UI mockups as inspiration for MarkPad's design.
 
