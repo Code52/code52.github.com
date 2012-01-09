@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Week 1: Downmarker WPF Review"
+title: "Week 1: MarkPad"
 author: "@aeoth, @shiftkey and @tobin"
 comments: true
 date: 2012-01-09
@@ -10,9 +10,9 @@ After a very busy week we have a product!  Not only that but we've got it featur
 
 So we'd like to present to you **MarkPad**.
 
-**SCREENSHOT**
+![](/img/week1-wrapup-screenshot1.png)
 
-It comes with all the features you'd expect, and as you can see from the screenshot it includes an edit panel, live render, and the ability to push and pull posts from a Metaweblogapi endpoint (for blogs such as [Funnelweb](http://funnelweblog.com).
+It comes with all the features you'd expect, and as you can see from the screenshot it includes an edit panel, live render, and the ability to push and pull posts from a MetaWeblog API endpoint (for blogs such as [Funnelweb](http://funnelweblog.com).
 
 You can find it available for download on it's [own site here](http://code52.org/DownmarkerWPF).
 
@@ -32,4 +32,4 @@ If you have an idea for a project please pop into our chat room at [Jabber/Code5
 
 Of course we hope MarkPad lives on, and so if you're interested in reading some code or submitting some, please check out the [repository on Github](https://github.com/Code52/DownmarkerWPF).
 
-**SCREENSHOT OF ABOUT SCREEN HERE**
+![](/img/week1-wrapup-about.png)
