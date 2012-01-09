@@ -16,7 +16,7 @@ It comes with all the features you'd expect, and as you can see from the screens
 
 You can find it available for download on it's [own site here](http://code52.org/DownmarkerWPF).
 
-We'd like to thank everyone that came on board, and we had quite a few people who delivered great code all week, and a few who came in to deliver a feature here and there - and we can't thank you guys enough - you made this possible :smiley:
+We'd like to thank everyone that came on board, and we had quite a few people who delivered great code all week, and a few who came in to deliver a feature here and there - and we can't thank you guys enough - you made this possible. We'd also like to thank [Chris Lindhartsen](http://clindhartsen.deviantart.com/art/Focus-Text-Editor-176271501) for permitting us to use his "Focus" metro-text editor UI mockups as inspiration for MarkPads design.
 
 We have a series of daily updates that show our progress up and give some insight as to what happened, which you can find on the blog  - we've separated them into their own feed if you're interested.
 
