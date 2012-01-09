@@ -12,7 +12,7 @@ So we'd like to present to you **MarkPad**.
 
 ![](/img/week1-wrapup-screenshot1.png)
 
-It comes with all the features you'd expect, and as you can see from the screenshot it includes an edit panel, live render, and the ability to push and pull posts from a MetaWeblog API endpoint (for blogs such as [Funnelweb](http://funnelweblog.com).
+It comes with all the features you'd expect, and as you can see from the screenshot it includes an edit panel, live render, and the ability to push and pull posts from a MetaWeblog API endpoint (for blogs such as [Funnelweb](http://funnelweblog.com)).
 
 You can find it available for download on it's [own site here](http://code52.org/DownmarkerWPF).
 
