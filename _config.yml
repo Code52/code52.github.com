@@ -1,4 +1,4 @@
 permalink: /:title.html
 auto: true
 markdown: rdiscount
-exclude: rakefile.rb, server.bat, config.ru
+exclude: rakefile.rb, server.bat, config.ru, _posts/Week02-Jabbr/2012-01-10-day1.md
