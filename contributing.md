@@ -3,6 +3,23 @@ layout: post
 title: Contributing to Code52 projects
 ---
 
+##Getting ready to contribute
+For all of the Code52 projects, we're using Git for our version control, and [GitHub](https://github.com/code52) as the central repo.
+
+Why Git and GitHub? Git is one of - if not the - leading *distributed* version control systems. All DVCS are faster than the centralised systems like SVN or CVS.  We do understand that Git isn't as easy to grok - particularly on Windows - as other tools such as Mercurial (Hg). We feel that GitHub is better suited than other hosted source platforms, so we're persevering with it. There are a fair [few introductions to git](http://book.git-scm.com/), but feel free to ask questions on how to use it in [Jabbr](http://jabbr.net/#/rooms/code52).
+
+Why GitHub? The community around GitHub, including the fantastic service itself and the way they're embracing and encouraging open source software makes it ideal to work with for the Code52 team - remember, we're trying to promote OSS!
+
+If you're on Windows, check out GitHub's excellent guide for setting up [Git on Windows](http://help.github.com/win-set-up-git/)  
+
+Once you've got Git setup, make sure you [fix your line endings](http://code52.org/line-endings.html) by setting `autocrlf` to `false`.  You can do this on a per project basis by going into a project directory, and typing
+
+`git config core.autocrlf false`
+
+or at a global level and doing
+
+`git config --global core.autocrlf false`
+
 ##How do I contribute?
 For the Code52 projects, we're adopting what is often referred to as "GitHub Flow". This doesn't exclusively apply to GitHub or even Git, but this is the example we're giving.
 
