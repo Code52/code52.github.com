@@ -68,7 +68,7 @@ Neat so far, right? It gets better. The pull request will notify the project mai
 
 ![][6]
 
-Oh sure, there is extra information about the pull request - such as all the commits involved and full discussion capabilities, but at the end of hte day, the auto-merge button makes pull requests and GitHub flow *trivial* to do.
+Oh sure, there is extra information about the pull request - such as all the commits involved and full discussion capabilities, but at the end of the day, the auto-merge button makes pull requests and GitHub flow *trivial* to do.
 
  [1]: img/githubflow_1.png
  [2]: img/githubflow_2.png
