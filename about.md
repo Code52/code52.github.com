@@ -34,7 +34,7 @@ You can nominate and vote for projects on our [Uservoice](http://code52.uservoic
 
 Discussions, ideas and suggestions can be posted on our [TenderApp](http://code52.tenderapp.com) site.
 
-And we're on [Twitter](http://twitter/code_52)!
+And we're on [Twitter](http://twitter.com/code_52)!
 
 
  
