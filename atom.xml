@@ -3,7 +3,7 @@ layout: nil
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Code52</title>
+  <title>Code52 Feed</title>
   <link href="http://www.Code52.org/"/>
   <link type="application/atom+xml" rel="self" href="http://www.Code52.org/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
