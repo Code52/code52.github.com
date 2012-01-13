@@ -2,6 +2,7 @@
 layout: post
 title: Line Endings
 date: 2012-01-10
+comments: true
 ---
 
 We're still learning Git and frankly it shows. We've hit an issue that can be best solved by copying a [wiki article](https://github.com/NancyFx/Nancy/wiki/Make-sure-line-endings-doesn%27t-bite-you-%28or-us%29) from [NancyFx](http://nancyfx.org/) nearly verbatim
