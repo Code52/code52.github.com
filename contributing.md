@@ -4,6 +4,8 @@ title: Contributing to Code52 projects
 ---
 
 ##Getting ready to contribute
+***For a detailed list of getting started links, head to the [Code52 wiki](https://github.com/Code52/code52.github.com/wiki)***
+
 For all of the Code52 projects, we're using Git for our version control, and [GitHub](https://github.com/code52) as the central repo.
 
 Why Git and GitHub? Git is one of - if not the - leading *distributed* version control systems. All DVCS are faster than the centralised systems like SVN or CVS.  We do understand that Git isn't as easy to grok - particularly on Windows - as other tools such as Mercurial (Hg). We feel that GitHub is better suited than other hosted source platforms, so we're persevering with it. There are a fair [few introductions to git](http://book.git-scm.com/), but feel free to ask questions on how to use it in [Jabbr](http://jabbr.net/#/rooms/code52).
