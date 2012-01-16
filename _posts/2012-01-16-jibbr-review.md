@@ -7,11 +7,11 @@ date: 2012-01-16 10:00:00 PM
 ---
 
 
-As we are getting to the end of this iteration, it is time to take stock of what we have:
+As we are getting to the end of this iteration, it is time to take stock of what we have achieved.
 
 ## What went well
 
-After being picked up by some influential tweeters, the Code52 room became the most popular room on JabbR - far surpassing our wildest expectations this far along. We also picked up some new contributors, and it was excellent to 
+After being picked up by some influential tweeters, the Code52 room became the most popular room on JabbR - far surpassing our wildest expectations this far along. We also picked up some new contributors, and it was excellent to have contributors in different timezones.
 
 So we currently have a collection of *sprockets* (components which interact with users in a chat room) and *announcers* (components which periodically execute tasks and notify the chat room when new things have occurred). Important features include:
 
