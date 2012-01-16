@@ -42,6 +42,8 @@ We have a fork which is running on AppHarbor, but we encountered a few hurdles.
  * The components require APIs to support start and stop behaviour.
  * The packages and website should be deployable 
  * [Paul](http://twitter.com/aeoth) just mentioned that [AWS Free Tier](http://aws.amazon.com/free/) now supports a micro Windows instance. Interesting...
+ * Hubot scripting support is *almost* there, but the way that [scoped-http-client](https://github.com/technoweenie/node-scoped-http-client) handles and returns the http object and responses is proving to be a little tricky to implement in IronJs. This means that scripts that *don't* use 'http' currently work, but those that do won't work until we figure that one out.
+
 
  Here's a couple of screenshots of the website UI:
 
