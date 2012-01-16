@@ -11,7 +11,7 @@ As we are getting to the end of this iteration, it is time to take stock of what
 
 ## What went well
 
-After being picked up by some influential tweeters, the Code52 room became the most popular room on JabbR - far surpassing our wildest expecations this far along. We also picked up some new contributors, and it was excellent to 
+After being picked up by some influential tweeters, the Code52 room became the most popular room on JabbR - far surpassing our wildest expectations this far along. We also picked up some new contributors, and it was excellent to 
 
 So we currently have a collection of *sprockets* (components which interact with users in a chat room) and *announcers* (components which periodically execute tasks and notify the chat room when new things have occurred). Important features include:
 
@@ -22,7 +22,12 @@ So we currently have a collection of *sprockets* (components which interact with
  * **GitHub Announcer** - track activity on a Github repo (and its forks)
  * **Twitter Announcer** - display tweets for a specific account
  * **UserVoice Announcer** - track activity in a UserVoice forum
+
+We even have these ones sitting as pull requests:
+
+ * **Bitbucket Announcer** - notify activity from a build server
  * **CruiseControl.Net Announcer** - notify activity from a build server
+ * **TeamCity Announcer** - notify activity from a build server
 
 These are run inside a console application with scheduling supported.
 
