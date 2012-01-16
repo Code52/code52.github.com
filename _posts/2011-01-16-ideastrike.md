@@ -8,9 +8,9 @@ date: 2012-01-17
 
 ##This week's idea
 
-Two weeks down, and the momentum is strong - we've got a packed room over at [Jibbr](http://jabbr.net/#/rooms/code52), we've been featured on the [Github blog](https://github.com/blog/1024-a-new-coding-project-every-week-at-code52), and we've got two projects that are going strong.
+Two weeks down, and the momentum is strong - we've got a packed room over at [Jabbr](http://jabbr.net/#/rooms/code52), we've been featured on the [Github blog](https://github.com/blog/1024-a-new-coding-project-every-week-at-code52), and we've got two projects that are going strong.
 
-So now we're on to week three, and another idea from our community - [Ideastrike!](https://github.com/Code52/Ideastrike) (code to go up soon ;)
+So now we're on to week three, and another idea from our community - [Ideastrike!](https://github.com/Code52/Ideastrike) (code to go up soon ;))
 
 Basically, our aim this week is to create a great site to give ideas and feedback, focusing on software development and good integration with other tooling.
 
