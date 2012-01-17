@@ -12,9 +12,13 @@ Two weeks down, and the momentum is strong - we've got a packed room over at [Ja
 
 So now we're on to week three, and another idea from our community - [Ideastrike!](https://github.com/Code52/Ideastrike) (code to go up soon ;))
 
-Basically, our aim this week is to create a great site to give ideas and feedback, focusing on software development and good integration with other tooling.
+**Our aim this week is to create a great site to give ideas and feedback, focusing on software development and good integration with other tooling.**
 
 There are many feedback and voting mechanism for ideas, but we think we can provide an open-source alternative, that is feature rich, simple, but powerful, and will be a great asset for the small guys trying to get started on projects.
+
+Here's an initial mockup from [@aeoth](http://twitter.com/aeoth) about how this might look.
+
+![](/img/week3-ideastrike-mockup.png)
 
 We've got a [Trello board](https://trello.com/board/ideastrike/4f137b417201526045146b8a) set up for it which we'll be keeping in sync with jobs from our Github issues as we get them scheduled and assigned.
 
