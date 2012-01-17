@@ -20,9 +20,9 @@ Here's an initial mockup from [@aeoth](http://twitter.com/aeoth) about how this 
 
 ![](/img/week3-ideastrike-mockup.png)
 
-We've got a [Trello board](https://trello.com/board/ideastrike/4f137b417201526045146b8a) set up for it which we'll be keeping in sync with jobs from our Github issues as we get them scheduled and assigned.
+We've got a [Trello board](https://trello.com/board/ideastrike/4f137b417201526045146b8a) set up which we'll use to track the backlog of features and who's currently working on what feature - if you want access to the repository to help out, drop into the [JabbR](http://jabbr.net/#/rooms/code52) chatroom and get in touch.
 
-##What platform are we looking at?
+## What platform are we looking at?
 
 Well, we've had a lot of feedback this week about this being a ".NET only" group - we don't intend it to be that way, but as it was said on [The West Wing](http://en.wikipedia.org/wiki/The_West_Wing) - "Decisions are made by those who show up".
 
