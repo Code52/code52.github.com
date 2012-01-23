@@ -35,7 +35,7 @@ While we're proud to have a working site going, we're not tying this one off jus
 
  * Github and Trello integration - we've started on the UI for this, but we want the activity feed to come alive as the idea evolves and progresses from concept to code.
  * API and Client libraries - so that app developers can integrate with Ideastrike directly.
- * A more dynamic web experience - we're using [Mustache.js](https://github.com/janl/mustache.js) already for the activity feed, and we've only scratched the surface.
+ * A more dynamic web experience - we're using [Mustache.js](https://github.com/janl/mustache.js) already for the activity feed, and we've only scratched the surface of what you can do with JSON data and client-side templates.
  * Database improvements - using the shiny new EF 4.3 Migrations to update the schema and persist data.
 
 
