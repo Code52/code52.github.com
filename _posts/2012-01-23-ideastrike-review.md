@@ -31,6 +31,15 @@ So what did we get done in a week?
 **Note:** this is a non-production environment and will be treated as such by us in the short-term. Any ideas you want to keep for posterity should go on our [Uservoice](https://code52.uservoice.com/forums/143105-code-52) site, not on AppHarbor. We will let you know when that's ready to go.
 
 
+## Fun stats
+
+We had 14 separate contributors this week and 50 pull requests accepted - our busiest week so far.
+
+The [punch card graph](https://github.com/Code52/Ideastrike/graphs/punch_card) over at GitHub this week also tells a story.
+
+<img src="https://chart.googleapis.com/chart?chs=800x300&amp;chds=-1,24,-1,7,0,11&amp;chf=bg,s,efefef&amp;chd=t:0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7|0,2,1,2,0,1,1,0,1,2,1,4,0,2,0,0,3,8,5,5,5,3,5,7,10,7,1,0,0,0,0,0,1,1,3,0,2,1,1,1,0,3,2,0,2,2,0,0,1,0,0,0,0,0,1,0,8,0,1,2,1,3,0,1,1,2,0,0,2,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,1,2,0,1,0,0,0,0,3,0,0,0,0,0,0,1,0,2,0,1,2,0,4,7,2,0,0,2,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2,2,1,2,4,6,1,4,2,0,0,1,0,0,0,0,0,1,3,2,3,8,5,11,7,2,0,2,3,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0&amp;chxt=x,y&amp;chm=o,333333,1,1.0,25.0&amp;chxl=0:||12am|1|2|3|4|5|6|7|8|9|10|11|12pm|1|2|3|4|5|6|7|8|9|10|11||1:||Sun|Mon|Tue|Wed|Thr|Fri|Sat|&amp;cht=s">
+
+
 ## What's Next?
 
 While we're proud to have a working site going, we're not tying this one off just yet. We've got a number of things to add which are sitting on the [Trello board](https://trello.com/board/ideastrike/4f137b417201526045146b8a), just waiting, nay, begging for some love.
