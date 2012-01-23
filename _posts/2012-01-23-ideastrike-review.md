@@ -11,13 +11,13 @@ A bit of a chaotic weekend, but it finally came together and we have another pro
 
 ![](/img/week3-recap-logo.png)
 
-Ideastrike - which we will switch too once it has the features we require to replace our existing site - is a web application for suggesting, discussing, planning and executing project ideas.
+Ideastrike - which we will switch to once it has the features we require to replace our existing site - is a web application for suggesting, discussing, planning and executing project ideas.
 
 ## Curent Features
 
 So what did we get done in a week?
 
- * The website uses [NancyFx](http://nancyfx.org/) - a super-duper-happy-path web framework running on ASP.NET (but it runs in other places).
+ * The website uses [NancyFx](http://nancyfx.org/) - a super-duper-happy-path web framework running on ASP.NET (also runs in other places).
  * User authentication is done via [Janrain](http://www.janrain.com/products/engage) which means users don't need to create new accounts, and administrators don't need to manage accounts either.
  * Markdown support just about everywhere on the site. If you have space for more than a sentence, we've added Markdown support. And a preview mode too, using [Showdown](http://showdown.im).
  * [Twitter Bootstrap](http://twitter.github.com/bootstrap) has been used as the baseline for our site theme.
@@ -27,6 +27,8 @@ So what did we get done in a week?
 ![](/img/week3-recap-main.png)
 
 ![](/img/week3-recap-idea.png)
+
+**Note:** this is a non-production environment and will be treated as such by us in the short-term. Any ideas you want to keep for posterity should go on our [Uservoice](https://code52.uservoice.com/forums/143105-code-52) site, not on AppHarbor. We will let you know when that's ready to go.
 
 
 ## What's Next?
