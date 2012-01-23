@@ -11,7 +11,7 @@ A bit of a chaotic weekend, but it finally came together and we have another pro
 
 ![](/img/week3-recap-logo.png)
 
-Ideastrike - which we will switch to once it has the features we require to replace our existing site - is a web application for suggesting, discussing, planning and executing project ideas.
+[Ideastrike](http://github.com/Code52/Ideastrike) - which we will switch to once it has the features we require to replace our existing site - is a web application for suggesting, discussing, planning and executing project ideas.
 
 ## Curent Features
 
