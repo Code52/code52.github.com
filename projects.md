@@ -42,7 +42,7 @@ title: Previous Projects
 * Jacob Gable [![][2]](http://github.com/jgable)
 * Quentin Calvez [![][1]](http://twitter.com/quentez ) [![][2]](http://github.com/quentez)
 * JimBond004 [![][2]](http://github.com/JimBond004)
-* Andy Mikula [![][1]](http://twitter.com/tobin) [![][2]](http://github.com/andrewtobin)
+* Andy Mikula [![][1]](http://twitter.com/andymikula) [![][2]](http://github.com/andy-j)
 * Ryan Lowdermilk [![][1]](http://twitter.com/ryanlowdermilk) [![][2]](http://github.com/ryanlowdermilk)
 * Rodrigo Vidal [![][1]](http://twitter.com/rodrigovidal) [![][2]](http://github.com/rodrigovidal)
 * Ryan LaNeve [![][1]](http://twitter.com/rlaneve) [![][2]](http://github.com/rlaneve)
