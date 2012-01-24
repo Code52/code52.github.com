@@ -17,9 +17,9 @@ title: Previous Projects
 
 <img style="float:right;" src="/img/jibbr_logo_small.png" />
 ##[Jibbr](http://code52.org/jibbr/)  
-**Contributors**  
+**Contributors** 
 
-* Seth Webster [![][1]](http://twitter.com/tobin) [![][2]](http://github.com/andrewtobin)
+* Seth Webster [![][1]](http://twitter.com/sethwebster) [![][2]](http://github.com/sethwebster )
 * David Fowler [![][1]](http://twitter.com/davidfowl) [![][2]](http://github.com/davidfowl)
 * Stefan Poulsen [![][1]](http://twitter.com/cyberzeddk) [![][2]](http://github.com/cyberzed)
 * Nick Josevski [![][1]](http://twitter.com/nickjosevski) [![][2]](http://github.com/nickjosevski)
