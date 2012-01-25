@@ -104,3 +104,7 @@ img
 	#hometext a { display: inline;  }
 	h1 { margin-top: -0px;}
 }
+
+#suggest { color: orange; }
+#suggest:hover { color:white; 
+	background: orange }
