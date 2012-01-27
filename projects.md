@@ -32,7 +32,7 @@ title: Previous Projects
 * Paul Jenkins [![][1]](http://twitter.com/aeoth) [![][2]](http://github.com/aeoth)
 
 <img style="float:right;" src="/img/ideastrike_logo_small.png" />
-##[Ideastrike](http://code52.org/ideastrike/)  
+##[Ideastrike](http://code52.org/Ideastrike/)  
 **Contributors**  
 
 * Chris Sainty [![][1]](http://twitter.com/csainty) [![][2]](http://github.com/csainty)
