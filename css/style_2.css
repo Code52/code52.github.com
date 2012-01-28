@@ -44,7 +44,7 @@ li
 {
 	margin-left:10px; 
 }
-.entry li, .idea li 
+.entry li, .idea li , .latest li
 {
 	margin-left:10px; 
 	list-style-type:circle;
@@ -91,6 +91,28 @@ img
 	margin-bottom: 5px;
 }
 
+.latest 
+{
+	border-bottom: 1px solid #13678B;
+	padding: 10px; 
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin-right: 330px; /*hack*/ 
+	margin-top: 10px;
+}
+
+.latest h3 { margin-top: 5px; font-size: 1.8em; color: #13678B;}
+
+.latest .description 
+{ 	
+	font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; 
+ 	font-weight: bold; 
+ 	margin-top: 10px; 
+ 	margin-bottom: 10px; 
+}
+
+.latest .details { margin: 10px;}
+
 /* min-device-width: 800px instead? */
 @media screen and (max-width:900px)
 {
@@ -103,8 +125,10 @@ img
 	#home { display: none;  }
 	#hometext a { display: inline;  }
 	h1 { margin-top: -0px;}
+	.latest { margin-right:0px;	border-top: 1px solid #13678B; margin-top: -20px; margin-bottom: 20px;	}
 }
 
 #suggest { color: orange; }
-#suggest:hover { color:white; 
-	background: orange }
+#suggest:hover { color:white; background: orange }
+
+
