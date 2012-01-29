@@ -16,7 +16,7 @@ layout: nil
   {% for post in site.posts %}
   {% if post.feed != "project" %}
   <entry>
-    <id>http://www.Code52.org/{{ post.id }}</id>
+    <id>http://www.Code52.org/{{ post.url }}</id>
     <link type="text/html" rel="alternate" href="http://www.Code52.org/{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>

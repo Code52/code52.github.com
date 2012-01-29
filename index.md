@@ -6,7 +6,7 @@ title : code52
 {% include latest_project.html %}
 
 <ul class="ideas">
-    {% for post in site.posts %}
+    {% for post in site.posts  limit:5 %}
 		<li>
 			<div class="idea">
 				{% if forloop.first and post.layout == "post" %}
@@ -40,7 +40,16 @@ title : code52
 		</li>
     {% endfor %}
 </ul>
-	
+
+<h3>OLDER</h3>
+<ul class="postArchive">
+{% for post in site.posts offset:5 %}
+	<li>
+		<span class="olderpostdate"> {{ post.date | date: "%d %b"  }} </span> <a class="postlink" href="{{ post.id }}">{{ post.title }}</a>
+	</li>
+{% endfor %}
+</ul>
+
 <script type="text/javascript">
 //<![CDATA[
 (function() {
