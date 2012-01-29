@@ -19,7 +19,7 @@ layout: nil
       <link>http://www.Code52.org{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>code52@code52.org (Code52 Team)</author>
-      <guid>http://www.Code52.org{{ post.id }}</guid>
+      <guid>http://www.Code52.org{{ post.url }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
 	{% endif%}
