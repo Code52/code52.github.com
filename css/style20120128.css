@@ -120,6 +120,7 @@ img
 }
 
 .latest .details { margin: 10px;}
+.latest .details ul { margin-bottom: 20px;}
 
 /* min-device-width: 800px instead? */
 @media screen and (max-width:900px)
