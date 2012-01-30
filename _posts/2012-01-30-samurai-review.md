@@ -1,6 +1,6 @@
 --- 
 layout: post
-permalink: /ideastrike-review.html
+permalink: /samurai-review.html
 date: 2012-01-30 23:59
 title: "Samurai: Recap"
 author: "@aeoth, @shiftkey and @tobin"
