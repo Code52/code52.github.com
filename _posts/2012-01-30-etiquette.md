@@ -10,7 +10,9 @@ After a few weeks of doing Code52 work and dealing with a JabbR channel that is 
 
 ## Be considerate of others
 
-People come from a wide variety of backgrounds - culturally, socioeconmically and even places where they speak a language other than English and online communications all too often drop the context of a message -  you typically only have text to work with (or animated gifs if you're [someone](http://twitter.com/johnbristowe) special). Choose your words carefully, as ambiguity can easily be misconstrued. Sometimes the medium is deliberately constrained to be concise (and yes, I do enjoy that side of Twitter) but **when a serious conversation [goes south](http://dictionary.reference.com/browse/go+south), resolve it using another channel instead of prolonging it**. The phrase "take it offline" may make you sound like a bit of a clown, but in this case it is seriously valuable for all involved.
+People come from a wide variety of backgrounds - culturally, socioeconmically and even places where they speak a language other than English. Online communications all too often lose the context associated with a message - as you typically only have text to work with (or animated gifs if you're [someone](http://twitter.com/johnbristowe) special). Choose your words carefully, as ambiguity can easily be misconstrued. Sometimes the medium is deliberately constrained to be concise (and yes, I do enjoy that side of Twitter). 
+
+**When a serious conversation [goes south](http://dictionary.reference.com/browse/go+south), resolve it using a more appropriate channel instead of prolonging it**. The phrase "take it offline" may make you sound like a bit of a clown, but in this case it is seriously valuable for all involved.
 
 And putting a smiley face at the end of a message can in fact [make things worse.](http://mrtiedt.blogspot.com/2011/12/true-reflection.html)  
 
