@@ -38,15 +38,6 @@ Developers are usually really, really enthusiastic. Who can blame them when a ne
 
 We will *not* be tolerating any more comments such as (and this is an actual example) "*I saw [XYZ tech], and I threw up in my mouth*". If you don't like XYZ Tech, that's fine, provide an objective reasoning why we should be using *something else that actually exists*.
 
-
-## Code speaks louder than words
-
- * talking the talk is easy
- * +1 is easy
- * Building something is not hard
- * Submitting pull requests is not hard
- 
-
 ## Closing
 
 Got something to add? Leave a comment.
