@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta content="en-au" http-equiv="Content-Language" />
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+		<link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Blog Feed" />
+		<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Blog Feed" />
+		<link href="/projectsrss.xml" type="application/rss+xml" rel="alternate" title="Projects Feed" />
+		<link href="/projectsatom.xml" type="application/atom+xml" rel="alternate" title="Projects Feed" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<title>{% if page.title != "code52" %}{{ page.title }} - code52{% else %}{{ page.title }}{% endif %}</title>
+		<link rel="stylesheet" type="text/css" href="/css/style20120128.css" />
+		<link rel="shortcut icon" href="/img/favicon.ico" />
+	</head>
+	<body>
+		<div id="container">
+
+		<!-- background image: 52, aligned left, semi-transparent -->
+
+			<div class="title left">
+				<a href="/" id="home" title="home" alt="home">code52 - a new coding project every week</a>
+			</div>
+
+			<!-- each of these items are tab-style sections for users to switch between -->
+
+			<div class="content left">
+
+			{% include latest_project.html %}
+
+			{% include get_involved.html %}			
+
+			{% include links.html %}	
+
+			</div>
+
+			{% include footer.html %}
+			
+		</div>
+	</body>
+</html>
