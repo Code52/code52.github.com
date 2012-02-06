@@ -7,7 +7,7 @@ author: "@aeoth, @shiftkey and @tobin"
 comments: true
 ---
 
-[This idea](https://code52.uservoice.com/forums/143105-code-52/suggestions/2465600-metro-css-built-on-bootstrap) started out as something straight-forward which we suggested before Code52 had officially started, and we've had a couple of projects touch on the [Metro design language](http://en.wikipedia.org/wiki/Metro_(design_language)) - our [Markpad](http://code52.org/DownmarkerWPF/) app in particular. And with Windows 8 nudging towards a new public build, more and more people are curious abbout it.
+[This idea](https://code52.uservoice.com/forums/143105-code-52/suggestions/2465600-metro-css-built-on-bootstrap) started out as something straight-forward which we suggested before Code52 had officially started, and we've had a couple of projects touch on the [Metro design language](http://en.wikipedia.org/wiki/Metro_(design_language)) - our [Markpad](http://code52.org/DownmarkerWPF/) app in particular. And with Windows 8 nudging towards a new public build, more and more people are curious about it.
 
 ## metro.css - using Bootstrap?
 
