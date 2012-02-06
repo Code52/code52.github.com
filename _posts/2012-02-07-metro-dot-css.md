@@ -1,0 +1,71 @@
+--- 
+layout: post
+permalink: /pretzel.html
+date: 2012-01-31 08:00
+title: "Pretzel"
+author: "@aeoth, @shiftkey and @tobin"
+comments: true
+---
+
+
+After an epic week doing game development (which for many of us was new territory), we've picked a project which revisits one of languages we use everywhere with Code52 - Markdown.
+
+## Pretzel
+
+Code52 are big fans of [Jekyll](https://github.com/mojombo/jekyll), the Ruby-based static site generator tool. In fact, the site you are reading leverages output from Jekyll (running on GitHub too - check out the code [here](https://github.com/code52/code52.github.com)) and all our project sites run on top of the same stack (more details [here](http://code52.org/gh-pages.html)).
+
+To develop locally against Jekyll, you need to install ruby and configure your environment to install the right set of gems. **We want to create a tool in this vein which is more friendly for .NET developers - and support for the technologies that they use so that they too can quickly create sites.**
+
+We also want to explore implementing features on top of this Jekyll-like workflow:
+
+ * support different templating engines - Razor/Spark/???
+ * support dynamic content alongside static content - for example using AppHarbor to generate content on-the-fly.
+ * support for different inputs - could we generate documentation for code using this tool?
+
+But before we head down that road, we want a simple tool to generate our websites.
+
+## Why Pretzel?
+
+We were discussing on JabbR what to name this tool, and someone described the process of generating a site as "baking". A few minutes later, we'd settled on the name "Pretzel" for the tool, rather than some derivative of Jekyll and Hyde.
+
+Conceptually, Pretzel could support two modes - **bake** and **taste**. 
+
+**Bake** is for a once-off generation of the site.
+
+To scan the current directory for a website and detect the content to process, run:
+
+    pretzel bake 
+
+To scan a specific folder and parse the contents, run:
+
+    pretzel bake C:\path\to\folder
+
+To explicitly specify the input - we should support inferring the input based on the files found anyway - run:
+
+    pretzel bake --engine jekyll
+    
+**Taste** is for testing a site locally using a browser - make a change, and Pretzel should detect the file changes and regenerate the site.
+
+To test a site locally (we plan to use [Dragonfly](https://github.com/loudej/dragonfly)), run:
+
+	pretzel taste 
+
+To specify the port to serve the site from (default will be 4000), run:
+
+    pretzel taste --port 5000
+
+
+There's more ideas that we'll get to over teh course of the week, but this should give people an idea of how the tool should behave.
+
+
+## How can I get involved?
+
+The initial code is up on [GitHub](http://github.com/Code52/pretzel). The [Trello board](https://trello.com/board/pretzel/4f25ffb3dbbed1ab5a4f0f5a) will be updated over the course of today to define the set of tasks we plan to implement.
+
+Got an feature you'd like to see implemented in Pretzel? Hang out in the chatroom at [JabbR](http://jabbr.net/#/rooms/code52) and join in on the fun!
+
+
+
+
+
+
