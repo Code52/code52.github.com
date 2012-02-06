@@ -11,7 +11,7 @@ comments: true
 
 ## metro.css - using Bootstrap
 
-Twitter just unveiled [Bootstrap](http://twitter.github.com/bootstrap/) V2 - a lean template for getting a website started with grid layout, responsive design, cross-platform support and a bunch of other bells and whistles.
+Twitter just unveiled [Bootstrap](http://twitter.github.com/bootstrap/) V2. Bootstrap is a lean CSS/JS template for getting a website up and running with grid layout, responsive design, cross-platform support and a bunch of other bells and whistles.
 
 We want to see something similar for helping people build Metro-style applications.
 
@@ -23,10 +23,12 @@ As this may appear to be a simple task, we are currently discussing specific goa
  * A package to integrate metro.css with an ASP.NET MVC app - reuse what @Tobin has build with his [NuGet package](http://nuget.org/packages/MahApps.Twitter.Bootstrap)
  * A template for a Liquid-based static site - implement a better template for the Pretzel default sites.
  * What cool Javascript tricks can we add? Can we do some cross-platform work?
+ * and perhaps other things we can conceive...
+
 
 ## Follow the chatter
 
-This week will likely be a highly-entertaining process of discussing, iterating and experimenting with style, layout and usage. We use [JabbR](http://jabbr.net/#/rooms/code52) heavily to discuss stuff in real-time - if you want to get involved, drop in on the action. If you can't keep up, don't worry - JabbR also supports browsing the conversation history of a room (just scroll up to go back in time), so you can catch up on the past discussion.
+This week will likely be a highly-entertaining process of discussing, iterating and experimenting with style, layout and usage. We use [JabbR](http://jabbr.net/#/rooms/code52) heavily to discuss stuff in real-time - if you want to get involved, drop in on the action. If you can't keep up, don't worry - JabbR also supports browsing the conversation history of a room (just scroll up to go back in time), so you can catch up on the discussion easily.
 
 ## How can I get involved?
 
