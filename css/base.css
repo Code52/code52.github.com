@@ -1,0 +1,56 @@
+﻿body {
+	padding:0;
+	margin:0;
+	overflow:auto;
+	font-family: "Segoe UI", "Segoe WP", Helvetica, Arial, sans-serif;
+}
+
+#footerContainer {
+	margin-top:25px;
+	padding-bottom:25px;
+	padding-top:25px;
+	width:100%;
+	background:#e6e6e6;
+}
+.footer ul {
+	margin:0;
+	padding:0;
+}
+.footer li
+{
+	margin-right:10px; 
+	display:inline;
+	list-style-type:none;
+}
+#sponsors {
+	
+	margin-top:25px;
+}
+#sponsors h3 { 	 margin-bottom:15px; }
+
+
+h1,h2,h3,h4,h5,h6 
+{ 
+	font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; 
+	font-weight: 100; 
+	margin-bottom:0px; 
+}
+h1 
+{ 
+	font-size: 4em;
+}
+h2 
+{ 
+	color: #41b1e1;
+	font-size: 2.5em;
+}
+a, a:visited 
+{ 
+	text-decoration: none; 
+	color:#13678b;
+}
+a:hover 
+{
+	color:white; 
+	background: #13678b
+}
