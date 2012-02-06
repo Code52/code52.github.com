@@ -1,71 +1,35 @@
 --- 
 layout: post
-permalink: /pretzel.html
-date: 2012-01-31 08:00
-title: "Pretzel"
+permalink: /metro-dot-css.html
+date: 2012-02-07 08:00
+title: "metro.css"
 author: "@aeoth, @shiftkey and @tobin"
 comments: true
 ---
 
+[This idea](https://code52.uservoice.com/forums/143105-code-52/suggestions/2465600-metro-css-built-on-bootstrap) started out as something straight-forward which we suggested before Code52 had officially started, and we've had a couple of projects touch on the [Metro design language](http://en.wikipedia.org/wiki/Metro_(design_language)) - our [Markpad](http://code52.org/DownmarkerWPF/) app in particular. And with Windows 8 nudging towards a new public build, more and more people are curious abbout it.
 
-After an epic week doing game development (which for many of us was new territory), we've picked a project which revisits one of languages we use everywhere with Code52 - Markdown.
+## metro.css - using Bootstrap
 
-## Pretzel
+Twitter just unveiled [Bootstrap](http://twitter.github.com/bootstrap/) V2 - a lean template for getting a website started with grid layout, responsive design, cross-platform support and a bunch of other bells and whistles.
 
-Code52 are big fans of [Jekyll](https://github.com/mojombo/jekyll), the Ruby-based static site generator tool. In fact, the site you are reading leverages output from Jekyll (running on GitHub too - check out the code [here](https://github.com/code52/code52.github.com)) and all our project sites run on top of the same stack (more details [here](http://code52.org/gh-pages.html)).
+We want to see something similar for helping people build Metro-style applications.
 
-To develop locally against Jekyll, you need to install ruby and configure your environment to install the right set of gems. **We want to create a tool in this vein which is more friendly for .NET developers - and support for the technologies that they use so that they too can quickly create sites.**
+## More than just a CSS file
 
-We also want to explore implementing features on top of this Jekyll-like workflow:
+As this may appear to be a simple task, we are currently discussing specific goals to acheive:
 
- * support different templating engines - Razor/Spark/???
- * support dynamic content alongside static content - for example using AppHarbor to generate content on-the-fly.
- * support for different inputs - could we generate documentation for code using this tool?
+ * Is it worth following the Bootstrap conventions for styles and structure, or do we not gain much given the differences in style.
+ * A package to integrate metro.css with an ASP.NET MVC app - reuse what @Tobin has build with his [NuGet package](http://nuget.org/packages/MahApps.Twitter.Bootstrap)
+ * A template for a Liquid-based static site - implement a better template for the Pretzel default sites.
+ * What cool Javascript tricks can we add? Can we do some cross-platform work?
 
-But before we head down that road, we want a simple tool to generate our websites.
+## Follow the chatter
 
-## Why Pretzel?
-
-We were discussing on JabbR what to name this tool, and someone described the process of generating a site as "baking". A few minutes later, we'd settled on the name "Pretzel" for the tool, rather than some derivative of Jekyll and Hyde.
-
-Conceptually, Pretzel could support two modes - **bake** and **taste**. 
-
-**Bake** is for a once-off generation of the site.
-
-To scan the current directory for a website and detect the content to process, run:
-
-    pretzel bake 
-
-To scan a specific folder and parse the contents, run:
-
-    pretzel bake C:\path\to\folder
-
-To explicitly specify the input - we should support inferring the input based on the files found anyway - run:
-
-    pretzel bake --engine jekyll
-    
-**Taste** is for testing a site locally using a browser - make a change, and Pretzel should detect the file changes and regenerate the site.
-
-To test a site locally (we plan to use [Dragonfly](https://github.com/loudej/dragonfly)), run:
-
-	pretzel taste 
-
-To specify the port to serve the site from (default will be 4000), run:
-
-    pretzel taste --port 5000
-
-
-There's more ideas that we'll get to over teh course of the week, but this should give people an idea of how the tool should behave.
-
+This week will likely be a highly-entertaining process of discussing, iterating and experimenting with style, layout and usage. We use [JabbR](http://jabbr.net/#/rooms/code52) heavily to discuss stuff in real-time - if you want to get involved, drop in on the action. If you can't keep up, don't worry - JabbR also supports browsing the conversation history of a room (just scroll up to go back in time), so you can catch up on the past discussion.
 
 ## How can I get involved?
 
-The initial code is up on [GitHub](http://github.com/Code52/pretzel). The [Trello board](https://trello.com/board/pretzel/4f25ffb3dbbed1ab5a4f0f5a) will be updated over the course of today to define the set of tasks we plan to implement.
+The initial code is up on [GitHub](http://github.com/Code52/metro.css). The [Trello board](https://trello.com/board/metro-css/4f2fd841a5146fa91fbff127) will be updated over the course of today/tomorrow as we sketch out what we'd like to demonstrate.
 
-Got an feature you'd like to see implemented in Pretzel? Hang out in the chatroom at [JabbR](http://jabbr.net/#/rooms/code52) and join in on the fun!
-
-
-
-
-
-
+Got some opinions on Metro UI?  Hang out in the chatroom at [JabbR](http://jabbr.net/#/rooms/code52) and join in on the fun!
