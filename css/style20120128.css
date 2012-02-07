@@ -1,33 +1,11 @@
-body 
+﻿@import url("base.css");
+
+#container, .footer
 { 
 	font-family: Segoe UI, sans-serif; 
 	margin-left:auto; 
 	margin-right: auto;
 	width:1100px; 
-}
-h1,h2,h3,h4,h5,h6 
-{ 
-	font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; 
-	font-weight: lighter; 
-	margin-bottom:0px; 
-}
-h1 
-{ 
-	font-size: 4em;
-}
-h2 
-{ 
-	font-size: 2.5em;
-}
-a, a:visited 
-{ 
-	text-decoration: none; 
-	color:#13678b;
-}
-a:hover 
-{
-	color:white; 
-	background: #13678b
 }
 ul 
 {
@@ -125,7 +103,7 @@ img
 /* min-device-width: 800px instead? */
 @media screen and (max-width:900px)
 {
-	body { width:auto; margin:10px; }
+	body { width:auto; }
 	#content { width : 100%; }
 	#side { float:none; width:100%; margin-left:0px; }
 	#side .section { margin-top:0; margin-right: 30px; }
@@ -135,9 +113,8 @@ img
 	#hometext a { display: inline;  }
 	h1 { margin-top: -0px;}
 	.latest { margin-right:0px;	border-top: 1px solid #13678B; margin-top: -20px; margin-bottom: 20px;	}
+	#container, .footer { width:auto; padding:10px; }
 }
 
 #suggest { color: orange; }
 #suggest:hover { color:white; background: orange }
-
-
