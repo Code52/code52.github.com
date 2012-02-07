@@ -15,6 +15,8 @@ How far did we get this week?
 
 You can setup a new website using these three steps.
 
+**EDIT:** here's a quick [wiki article](https://github.com/Code52/pretzel/wiki/Installing-Pretzel) to get this running from the command line.
+
 ![](/img/pretzel-console.png) 
 
 This provides the demo site we've configured to help get people started experimenting - including images, styles and a sample post.

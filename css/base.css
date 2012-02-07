@@ -46,7 +46,7 @@ h2
 	font-size: 2.5em;
 }
 
-h4 { text-transform :uppercase; font-weight:700; }
+h4 { text-transform :uppercase; font-weight:700; font-size: 1.5em; margin-bottom: 10px; margin-top:0px;}
 a, a:visited 
 { 
 	text-decoration: none; 
@@ -58,8 +58,12 @@ a:hover
 	background: #13678b
 }
 
+.pivotItem { margin-top:10px; }
+
 @media screen and (max-width:900px)
 {
 	h1 { font-size: 2.5em;}
 	h2 { font-size:1.5em; }
+	h4 { font-size:1em; }
 }
+
