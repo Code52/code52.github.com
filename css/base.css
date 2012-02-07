@@ -26,6 +26,7 @@
 	
 	margin-top:25px;
 }
+#sponsors a:hover { background:none;}
 #sponsors h3 { 	 margin-bottom:15px; }
 
 
@@ -55,4 +56,10 @@ a:hover
 {
 	color:white; 
 	background: #13678b
+}
+
+@media screen and (max-width:900px)
+{
+	h1 { font-size: 2.5em;}
+	h2 { font-size:1.5em; }
 }
