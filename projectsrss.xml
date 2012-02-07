@@ -12,7 +12,7 @@ layout: nil
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
 	{% if post.feed == "project" %}
     <item>
       <title>{{ post.title | xml_escape }}</title>

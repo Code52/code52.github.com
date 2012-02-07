@@ -3,7 +3,6 @@ layout: post
 title: About
 comments: false
 ---
-
 code52 started with a simple idea:
 
 ##"A new coding project every week"
