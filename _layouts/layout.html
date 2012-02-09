@@ -12,6 +12,13 @@
 		<title>{% if page.title != "code52" %}{{ page.title }} - code52{% else %}{{ page.title }}{% endif %}</title>
 		<link rel="stylesheet" type="text/css" href="/css/style20120128.css" />
 		<link rel="shortcut icon" href="/img/favicon.ico" />
+		<script id="contributorTemplate" type="text/x-jQuery-tmpl">
+		{% literal %}
+		{{each contributors}}
+		<h3 style="margin-top:0px;"><img src="http://gravatar.com/avatar/${gravatar_id}?s=25" alt="${ name }" /> <a href="https://github.com/${login}">${name || login}</a> - (${contributions} commits)</h3>
+		{{/each}}
+		{% endliteral %}
+		</script>
 	</head>
 	<body>
 		<div id="container">
