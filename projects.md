@@ -50,5 +50,41 @@ title: Previous Projects
 * Brendan Forster [![][1]](http://twitter.com/shiftkey) [![][2]](http://github.com/shiftkey)
 * Paul Jenkins [![][1]](http://twitter.com/aeoth) [![][2]](http://github.com/aeoth)
 
+##[Samurai](http://code52.org/samurai)  
+**Contributors**  
+
+* Michael Quandt [![][1]](http://twitter.com/quandtm) [![][2]](http://github.com/quandtm)
+* Chris Sainty [![][1]](http://twitter.com/csainty) [![][2]](http://github.com/csainty)
+* Alex Friedman [![][1]](http://twitter.com/brooklynDev) [![][2]](http://github.com/brooklynDev)
+* BlackLamb [![][2]](http://github.com/BlackLamb)
+* ronnykarlsson [![][2]](http://github.com/ronnykarlsson)
+* seanepping [![][2]](http://github.com/seanepping)
+* Kamran Ayub  [![][1]](http://twitter.com/kamranayub) [![][2]](http://github.com/kamranayub)
+* Jon Galloway [![][1]](http://twitter.com/jongalloway) [![][2]](http://github.com/jongalloway)
+* Cameron MacFarland [![][1]](http://twitter.com/distantcam) [![][2]](http://github.com/distantcam)
+* Andrew Tobin [![][1]](http://twitter.com/tobin) [![][2]](http://github.com/andrewtobin)
+* Brendan Forster [![][1]](http://twitter.com/shiftkey) [![][2]](http://github.com/shiftkey)
+* Paul Jenkins [![][1]](http://twitter.com/aeoth) [![][2]](http://github.com/aeoth)
+
+##[Pretzel](http://code52.org/pretzel)  
+**Contributors**  
+
+* Chris Sainty [![][1]](http://twitter.com/csainty) [![][2]](http://github.com/csainty)
+* ronnykarlsson [![][2]](http://github.com/ronnykarlsson)
+* Luke Lowrey [![][1]](http://twitter.com/lukencode) [![][2]](http://github.com/lukencode)
+* Alexei Kopylov  [![][2]](http://github.com/alexkopy)
+* Jake Ginnivan [![][1]](http://twitter.com/JakeGinnivan) [![][2]](http://github.com/JakeGinnivan)
+* Tiernan OToole [![][2]](http://github.com/tiernano)
+* David Tchepak [![][1]](http://twitter.com/davetchepak) [![][2]](http://github.com/dtchepak)  
+* markheath [![][2]](http://github.com/markheath)
+* sunil ravulapalli  [![][2]](http://github.com/sunilrav)
+* Ben Dornis [![][1]](http://twitter.com/Buildstarted ) [![][2]](http://github.com/Buildstarted)
+* Cameron MacFarland [![][1]](http://twitter.com/distantcam) [![][2]](http://github.com/distantcam)
+* Andrew Tobin [![][1]](http://twitter.com/tobin) [![][2]](http://github.com/andrewtobin)
+* Brendan Forster [![][1]](http://twitter.com/shiftkey) [![][2]](http://github.com/shiftkey)
+* Paul Jenkins [![][1]](http://twitter.com/aeoth) [![][2]](http://github.com/aeoth)
+
+
+
   [1]: /img/twitter-2.png
   [2]: /img/github.png
