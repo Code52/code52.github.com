@@ -100,6 +100,14 @@ img
 .latest .details { margin: 10px;}
 .latest .details ul { margin-bottom: 20px;}
 
+@media screen and (max-width:1024px)
+{
+	body { width:900px; }
+	#home > img{ width:150px; }
+	#side .section ul { font-size:1.2em; padding:0px; margin:5px; }
+	.latest { margin-right:180px; }
+}
+
 /* min-device-width: 800px instead? */
 @media screen and (max-width:900px)
 {
