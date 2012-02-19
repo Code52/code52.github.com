@@ -21,7 +21,7 @@ The best investment for design sketching I've made is the set of [Sakura Pigma M
 
 ![](/img/designing_part_1/IMG_8245.jpg)
 
-While $3-5 a pen might seem expensive, these suckers *last*. [Miguel Endara](http://vimeo.com/miguelendara) drew a piece of art composed of 3.5 million dots (a technique known as [http://en.wikipedia.org/wiki/Stippling](stippling))... with just one of these pens.
+While $3-5 a pen might seem expensive, these suckers *last*. [Miguel Endara](http://vimeo.com/miguelendara) drew a piece of art composed of 3.5 million dots (a technique known as [stippling](http://en.wikipedia.org/wiki/Stippling))... with just one of these pens.
 
 <iframe src="http://player.vimeo.com/video/33091687?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
@@ -65,4 +65,4 @@ The "work flow" for this:
 * Save as `imagesize.ico` (ie, `256.ico`, `64.ico`) - make sure its a square image - and select "Standard ICO" as the output format.
 * Once all the sizes are exported, from a command line `icobundl.exe -o projectname.ico 256.ico 128.ico 64.ico`.
 
-This gives ~200-500kB icons compared to PNG's that would be 20-60kB, but this is the only way to maintain compatibility (and good scaling) on Windows XP up. "Unfortunately", we're promoting every body join in and contribute, we can't discriminate against old OS versions!
+This gives ~200-500kB icons compared to PNG's that would be 20-60kB, but this is the only way to maintain compatibility (and good scaling) on Windows XP up.
