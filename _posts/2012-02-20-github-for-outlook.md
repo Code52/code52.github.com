@@ -24,19 +24,13 @@ The tool should give you an overview of the important things you need to address
 
 ## The technology under the hood
 
+The most popular tool of building addins for Microsoft Office is called Visual Studio Tools for Office - which allows .NET apps to integrate and behave like native Office addins. There's a bunch of resources on getting started with VSTO over on [MSDN](http://msdn.microsoft.com/en-us/office/hh133430).
 
+We will be using WPF for the UI, but the real project we will leverage is [Jake Ginnivan's](http://twitter.com/JakeGinnivan) [VSTOContrib](http://vstocontrib.codeplex.com/) libraries - this will allow us to quickly scaffold the code without getting bogged down in COM interop woes.
 
-* Using @jakeginnivan's VSTO helper to build off as a framework
-* WPF App
-* Settings page to hook in to your github api key.
-* Enumerate your projects
-* Create a new issue from an email, assign it against a project, apply a label
+We're also talking with @aeoth about making use of some of his recent work on a desktop port of the ["Milestone"](http://quandtm.github.com/Milestone/) GitHub  client for WP7. This isn't cruical to the end goal of the week, but after using Reactive Extension in Carnac we're keen to make use of it in other scenarios.
 
-
-* Could also create a task in outlook for that, link back to the issue in Github
-
-* Not sure what else we could do to add subsequent emails back to a task as comments
 
 ## How can I get involved?
 
-The initial project is up on [GitHub](http://github.com/Code52/github-for-outlook). The [Trello board](https://trello.com/board/github-tasks-for-outlook/4f4234cdbfa22c0070ac4caa) will be updated over the course of today/tomorrow as we sketch out the UI and features to implement. And of course the [JabbR](http://jabbr.net/#/rooms/code52) room is worth checking out too!
+The initial project is up on [GitHub](http://github.com/Code52/github-for-outlook). The [Trello board](https://trello.com/board/github-tasks-for-outlook/4f4234cdbfa22c0070ac4caa) will be updated over the course of today/tomorrow as we sketch out features and workflow ideas to implement. And of course the [JabbR](http://jabbr.net/#/rooms/code52) room is worth checking out too!
