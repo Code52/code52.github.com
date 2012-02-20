@@ -11,7 +11,7 @@ What started out as an excuse to watch [Youtube](http://www.youtube.com/watch?v=
 
 <br />
 
-<center>![](/img/carnac-logo.png)</center>
+![](/img/carnac-logo.png)
 
 ## Progress!
 
