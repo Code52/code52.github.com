@@ -1,7 +1,7 @@
 --- 
 layout: post
 permalink: /internationalization-mvc4.html
-date: 2012-02-21 23:00
+date: 2012-02-27 22:00
 title: "Internationalization Packages for MVC4"
 author: "@aeoth, @shiftkey and @tobin"
 comments: true
