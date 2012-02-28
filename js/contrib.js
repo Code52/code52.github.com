@@ -1,4 +1,4 @@
-  function getContribs(projectName) {
+  function getContribs(projectName, projectUrl) {
     $.ajax({
         url: "http://github.com/api/v2/json/repos/show/Code52/" + projectName + "/contributors",
         dataType: 'jsonp',
@@ -10,7 +10,7 @@
 				if (a.contributions < b.contributions) return 1;
 				return 0;
 			});
-			$("#contributors").append("<h2>" + projectName +"</h2>");
+			$("#contributors").append("<h2><a href=\"" + projectUrl + "\">"+ projectName +"</a></h2>");
 			$("#contributorTemplate").tmpl(data).appendTo("#contributors");
         }
     });
@@ -39,7 +39,7 @@
 				var repo = data.repositories[i];
 				
 				if (repo.name != "code52.github.com")
-					getContribs(repo.name);
+					getContribs(repo.name, repo.url);
 			}
         }
   });
