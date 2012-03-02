@@ -23,6 +23,6 @@ We are also planning a demonstration website which has these features implemente
 
 ## How can I get involved?
 
-A sample website and the scripts to generate the NuGet pacakges are up on [GitHub](http://github.com/Code52/internationalization-mvc4). The [Trello board](https://trello.com/board/internationalization-mvc4/4f49efbbd105c95e0c12332e) has some tasks which are ready to be started. 
+A sample website and the scripts to generate the NuGet packages are up on [GitHub](http://github.com/Code52/internationalization-mvc4). The [Trello board](https://trello.com/board/internationalization-mvc4/4f49efbbd105c95e0c12332e) has some tasks which are ready to be started. 
 
 Unfortunately you need to be granted access to the board before you can assign yourself to a task, so create an account and drop into the [JabbR](http://jabbr.net/#/rooms/code52) room to get in touch!
