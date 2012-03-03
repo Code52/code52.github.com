@@ -138,7 +138,7 @@ h2 {	margin-left:20px; }
 	h2 {font-size: 1.5em;}
 	h3 {font-size: 1.25em;}
 	.metro-pivot .pivot-item h3, .metro-pivot .headers .header { font-size: 125%; display:block; }
-	.metro-pivot .pivot-item h3, .metro-pivot .headers {clear:both; margin-bottom:60px; }
+	.metro-pivot .pivot-item h3, .metro-pivot .headers {clear:both; height: auto; }
 	ul,li  { margin-left:0px; padding:0px;}
 	#container { margin:5px; }
 }
