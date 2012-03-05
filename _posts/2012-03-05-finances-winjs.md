@@ -1,6 +1,6 @@
 --- 
 layout: post
-permalink: /finances-winjs.html
+permalink: /finances-windows8.html
 date: 2012-03-05 23:00
 title: "MyFinances for Windows 8"
 author: "@aeoth, @shiftkey and @tobin"
