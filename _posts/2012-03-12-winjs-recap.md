@@ -25,7 +25,7 @@ This we could have mitigated with better planning:
 
  - wrapping our heads around the changes to WinJS in the Consumer Preview
  - how to structure the UI to better reflect application flow and Metro principles
- - scaffolding the app be
+ - scaffolding the app better initially so that people could cherry-pick screens to work with.
 
 A few things worked well:
 
