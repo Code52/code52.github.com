@@ -39,3 +39,5 @@ This is still under active development - the only issue at the moment is lack of
 Stay tuned for a demo of the progress made once we resurrect the machine with the video footage on it - there was some code changes which didn't make it out sadly.
 
 We also had a [few](http://csainty.blogspot.com.au/2012/03/windows-8-winrt-and-winjs-scope.html) [blog](http://csainty.blogspot.com.au/2012/03/winjs-namespaces.html) [posts](http://csainty.blogspot.com.au/2012/03/winjs-classes.html) from Chris Sainty introducing Javascript concepts for those who are getting started wtih WinJS. Brendan will also (hopefully) get time this week to share some of the features he's found around CSS and WinJS controls that have been incorporated into the My Finances app.
+
+And as always, we have the [JabbR](http://jabbr.net/#/rooms/code52) room for people to hang out and talk about Windows 8 or the other projects we are working on currently.
