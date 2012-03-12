@@ -2,7 +2,7 @@
 layout: post
 permalink: /winjs-recap.html
 date: 2012-03-12 23:59
-title: "MyFinances for Windows 8"
+title: "Recap - MyFinances for Windows 8"
 author: "@aeoth, @shiftkey and @tobin"
 comments: true
 ---
