@@ -32,6 +32,18 @@ A few things worked well:
  - Having a specific folder for mockups in source control helped share UI ideas around but keep them tracked (both PSD and PNG formats depending on the software available to the users).
  - Breaking tasks into prototypes helped people explore things in isolation without becoming part of the critical path.
 
+## What did we get done?
+
+We've got a simple app running that allows the user to navigate between a number of tabs at the top of the page. The first page we implemented lists off the transactions associated with the current user and allows for new items to be added.
+
+For those who are curious about building WinJS apps, in its current form the app demonstrates:
+
+ - navigation between pages
+ - customising the domain model
+ - binding data to the screen
+ - using some of the new controls including lists and flyouts
+ - styling markup using CSS and the new *-ms* properties and values.
+
 ## What's next?
 
 This is still under active development - the only issue at the moment is lack of time - and there are a number of features which have been started but not integrated into master. We are looking for this to be a sample application that people can use and developers can explore and contribute to, so this is only the beginning.
