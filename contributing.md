@@ -36,12 +36,12 @@ If you do have write access to the repo, just skip to step 2.
 
 ![][2]
 
-###Step 2: Pick and issue, any issue. Be an issue!
+###Step 2: Pick an issue, any issue. Be an issue!
 Normally you'd easily be able to make a fork, branch and commit up changes, but in Code52 projects we're moving very quickly and can quickly pick up people. It's a good idea to 'stake your claim' on a bug or feature to fix up so that two people aren't working on the same thing.  
 
 ![][3]
 
-Go over to the original projects issue tab, and pick something that you'd like to work on. Don't see it there? Create an issue. If you can, assign the issue to yourself or leave a comment on the issue saying "I'll do this" - it needs to be explicitly stated, as just reporting an issue (be it a bug or feature) doesn't really let people know what you're doing.
+Go over to the original project's issue tab, and pick something that you'd like to work on. Don't see it there? Create an issue. If you can, assign the issue to yourself or leave a comment on the issue saying "I'll do this" - it needs to be explicitly stated, as just reporting an issue (be it a bug or feature) doesn't really let people know what you're doing.
 
 ###Step 3: Create a branch and make some changes
 Create a somewhat descriptive branch name on *your* fork, switch to it, make some changes. A descriptive name helps let us know what you are working on. Better yet, if an issue is created you can reference it *in your commit notes* by having "#IssueNumber" - ie,  
