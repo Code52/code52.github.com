@@ -11,7 +11,7 @@ So, the week is over and it's time to report - so let's talk about where we're a
 
 ## How'd we go?
 
-The week started well, @tobin had some good code that was working and scanning well and it wasn't fully featured but it was working, so that's great!  .... and then we tested it on @aeoth's scanner.
+The week started well, @tobin dived in with functional (even if not fully featured) code... until we tried @aeoth's scanner...
 
 From there it was an incredibly painful experience trying to work out how WIA really works, and the best way to proceed.
 
