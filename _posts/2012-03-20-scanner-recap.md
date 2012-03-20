@@ -25,18 +25,6 @@ We have had a few volunteers offering help, even taking tasks but unfortunately 
 
 ![](/img/scanner-recap-scan.png)
 
-## What did we get done?
-
-We've got a simple app running that allows the user to navigate between a number of tabs at the top of the page. The first page we implemented lists off the transactions associated with the current user and allows for new items to be added.
-
-For those who are curious about building WinJS apps, in its current form the app demonstrates:
-
- - navigation between pages
- - customising the domain model
- - binding data to the screen
- - using some of the new controls including lists and flyouts
- - styling markup using CSS and the new *-ms* properties and values.
-
 ## What's next?
 
 We have a few jobs up on [Trello](https://trello.com/board/enhance/4f24963edbbed1ab5a11c5ad) and we're alway open to having more - or coming in and checking out the code on [Github](http://github.com/Code52/enhance) and doing some work on helping making it better with us.
