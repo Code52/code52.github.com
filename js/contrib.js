@@ -38,7 +38,10 @@
 			{
 				var repo = data.repositories[i];
 				
-				if (repo.name != "code52.github.com")
+				if (repo.name != "code52.github.com"
+				&& repo.name != "NuGetGallery"
+				&& repo.name != "markdowndeep"
+				&& repo.name != "gh-pages-template")
 					getContribs(repo.name, repo.url);
 			}
         }
