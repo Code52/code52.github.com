@@ -1,6 +1,6 @@
 --- 
 layout: post
-permalink: /say-wat.html
+permalink: /say-wat-recap.html
 date: 2012-04-09 23:59
 title: "Say Wat? Recap"
 author: "@shiftkey"
