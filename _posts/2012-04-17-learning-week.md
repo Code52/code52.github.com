@@ -33,10 +33,22 @@ We want to hear:
 
 It doesn't have to be a long post. And things like pictures and code snippets are fine to help show it off.
 
+## But how?
+
+Got something you want to share? You've got a few options
+
+### I've already posted it!
+
 Already written about something cool you'd like to share? Tweet a link to the [@Code_52](http://twitter.com/Code_52) account and we'll get in touch. If we're suitably impressed by your awesomeness, we'll share it with the world.
+
+### I don't have a blog!
 
 Don't have a blog? Don't worry! You can fork [this website](http://github.com/Code52/code52.github.com) on GitHub and add your own post to the [posts folder](http://github.com/Code52/code52.github.com/tree/master/_posts). Once you've written the post, send us a pull request and we can proof-read it before pushing it live. 
 
 If you haven't seen it before, the site layout and content is used as input for [Jekyll](http://github.com/mojombo/jekyll/wiki) to generate the site content.
 
-The Code52 gang have built a couple of tools which might help with writing the posts - [MarkPad](http://code52.org/DownmarkerWPF) for writing Markdown content and [Pretzel](http://code52.org/pretzel) for testing the site locally. You should check them out!
+### I'm not sure where to start!
+
+The Code52 gang built a tool for editing Markdown files - called [MarkPad](http://code52.org/DownmarkerWPF). This is a great way to get started with writing your own posts (its easier than writing HTML, and you can see the rendered content as your write it).
+
+If you drop into the Code52 [chat room](http://jabbr.net/#/rooms/Code52) we can help with editing and getting the content up on the site.
