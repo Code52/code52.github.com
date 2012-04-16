@@ -45,7 +45,7 @@ There are no immediate plans for boxkite to support other framework versions, as
  - there are a number of [existing libraries](https://dev.twitter.com/docs/twitter-libraries#dotnet) out there for .NET apps 
  - I would prefer to focus on the dodo application itself in the short term.
 
- If you still have the urge to check out a shiny new Twitter API library, @mabster spent the week building a .NET 4 client called [Budgie](http://matthamilton.net/budgie) that uses the Task Parallel Library heavily.
+ If you still have the urge to check out a shiny new Twitter library, [Matt Hamilton](http://twitter.com/mabster) spent the week building a .NET 4 client called [Budgie](http://matthamilton.net/budgie) that uses the Task Parallel Library heavily.
 
 ## The future of dodo 
 
