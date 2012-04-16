@@ -7,7 +7,7 @@ author: "@shiftkey"
 comments: true
 ---
 
-The Code52 team had some big news over the weekend which I will address in a later post, but before we should get to the fun stuff about dodo.
+The Code52 team had some big news over the weekend which I will address in a later post, but before we should get to the fun stuff about [dodo](http://github.com/Code52/dodo).
 
 ## What's been done so far 
 
