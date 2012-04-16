@@ -1,7 +1,7 @@
 --- 
 layout: post
 permalink: /dodo-recap.html
-date: 2012-04-16 23:00
+date: 2012-04-16 20:30
 title: "dodo recap"
 author: "@shiftkey"
 comments: true
