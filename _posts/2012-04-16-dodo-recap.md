@@ -33,7 +33,7 @@ Other functionality which as been started on but not integrated into master incl
  - Semantic Zoom - collapse a group of tweets to see just the user's avatars
  - User Streams - rather than querying for data periodically, Twitter can stream data down to an open connection inside the app.
 
- **TODO: screenshot**
+ ![](/img/dodo-example.png)
 
 ## boxkite
 
