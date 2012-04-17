@@ -9,7 +9,11 @@ comments: true
 
 ## Introduction
 
+For those of you who aren't familiar with it, [Matt Hamilton](http://twitter.com/mabster) wrote a Twitter API library over a few nights last week as an experiment to better understand the Task Parallel Library.
 
+He's named it Budgie - you can [read up about it](http://matthamilton.net/budgie), browse the [source code](http://bitbucket.org/mabster/budgie), install the [NuGet packages](http://nuget.org/packages/Budgie) or try out his Twitter client [Halfwit](http://madprops.org/halfwit/) which uses it.
+
+I asked Matt if he was interested in discussing why he decided to use the TPL for his project and what was cool about it.
 
 ## The problem with asynchronous code
 
