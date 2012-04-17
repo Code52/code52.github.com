@@ -30,6 +30,6 @@ Lots of detail, lots of code samples. I hope you enjoy it.
 
 Tugberk Ugurlu hails from Turkey and juggles university studies with his work as a Programmer and Internet Sales Director. He blogs at [www.tugberkugurlu.com](http://www.tugberkugurlu.com/) and is [@tourismgeek](http://twitter.com/tourismgeek) on Twitter.
 
-### Addendum
+## Addendum
 
  - If you want to learn more on the repository pattern, Jon Galloway and Jesse Liberty did a screencast on **[Building a Repository using TDD](http://channel9.msdn.com/Series/The-Full-Stack/The-Full-Stack-Part-3-Building-a-Repository-using-TDD)** for their video series "The Full Stack". Check it out.
