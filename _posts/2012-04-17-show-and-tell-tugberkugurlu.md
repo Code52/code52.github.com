@@ -11,7 +11,7 @@ comments: true
 
 When Tugberk sent me the link last night to this series, my curiousity was piqued. The generic repository pattern is something we had used for previous Code52 projects - which had also used Entity Framework as the backing store.
 
-For those who are not familiar with it, a *repository(1)* is typically defined as (from [Edward Hieatt and Rob Mee](http://martinfowler.com/eaaCatalog/repository.html)): a component which "**mediates between the domain and data mapping layers using a collection-like interface for accessing domain objects.**"
+For those who are not familiar with it, a *repository* is typically defined as (from [Edward Hieatt and Rob Mee](http://martinfowler.com/eaaCatalog/repository.html)): a component which "**mediates between the domain and data mapping layers using a collection-like interface for accessing domain objects.**"
 
 Why use the repository pattern?
 
@@ -32,4 +32,4 @@ Tugberk Ugurlu hails from Turkey and juggles university studies with his work as
 
 ### Addendum
 
-1. If you want to learn more on this, Jon Galloway and Jesse Liberty did a screencast on **[Building a Repository using TDD](http://channel9.msdn.com/Series/The-Full-Stack/The-Full-Stack-Part-3-Building-a-Repository-using-TDD)** for their video series "The Full Stack". Check it out.
+ - If you want to learn more on the repository pattern, Jon Galloway and Jesse Liberty did a screencast on **[Building a Repository using TDD](http://channel9.msdn.com/Series/The-Full-Stack/The-Full-Stack-Part-3-Building-a-Repository-using-TDD)** for their video series "The Full Stack". Check it out.
