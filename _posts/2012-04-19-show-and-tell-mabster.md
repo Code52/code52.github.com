@@ -65,6 +65,12 @@ I decided to use good ol' `System.Net.WebRequest` when making my calls to Twitte
 
 That returns a running Task which is performing the request and will return the response in the `Result` property.
 
+Budgie, however, doesn't use it. Why? Because I wanted all HTTP requests in Budgie to honour a Timeout property, and WebRequest doesn't honour its own Timeout property unless you use the synchronous `GetResponse` method. So my code actually looks like this:
+
+    return Task.Factory.StartNew(() => request.GetResponse());
+
+It could be argued that that's actually _more_ readable. :)
+
 From there I can use a continuation (since Budgie is written using C# 4 and doesn't make use of the "await" keyword) to take action when the task completes:
 
     return requestTask.ContinueWith(t =>
