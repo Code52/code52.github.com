@@ -1,7 +1,7 @@
 --- 
 layout: post
 permalink: /show-and-tell/3/task-parallel-library.html
-date: 2012-04-18 23:00
+date: 2012-04-19 23:00
 title: "Show and Tell #3 - Building Budgie with the Task Parallel Library (TPL)"
 author: "@shiftkey"
 comments: true
@@ -85,5 +85,3 @@ All in all, it's pretty easy! Easier still had I written this code with C# 5, bu
 ## Wrapping Up
 
 Using the TPL to create an asynchronous API is the logical choice in modern .NET development, and I wouldn't have done anything different in Budgie. I'm looking forward to the final release of VS11 and .NET 4.5, at which point I'll refactor the code to make use of the "await" keyword, but for now it's good to know that you can do this in a future-proof way with the current tools.
-
-## About the Author
