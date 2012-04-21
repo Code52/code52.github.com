@@ -23,4 +23,4 @@ David also mentions [MarkPad](http://code52.org/DownmarkerWPF)- an application b
 
 ## About the Author 
 
-David Burela lives in Melbourne, Australia and focuses on Silverlight, Windows Azure and Windows Phone 7 development. He also just finished his first book "Microsoft Silverlight 5 and Windows Azure Enterprise Integration". He blogs at [www.davidburela.com](http://www.davidburela.com/) and is [@DavidBurela](http://twitter.com/DavidBurela) on Twitter.
+David Burela lives in Melbourne, Australia and focuses on Silverlight, Windows Azure and Windows Phone 7 development. He also just finished his first book "Microsoft Silverlight 5 and Windows Azure Enterprise Integration". He blogs at [DavidBurela.Wordpress.com](http://DavidBurela.Wordpress.com/) and is [@DavidBurela](http://twitter.com/DavidBurela) on Twitter.
