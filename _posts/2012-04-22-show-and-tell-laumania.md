@@ -1,6 +1,6 @@
 --- 
 layout: post
-permalink: /show-and-tell/4/porting-a-silverlight-game-to-xna-on-wp7.html
+permalink: /show-and-tell/5/porting-a-silverlight-game-to-xna-on-wp7.html
 date: 2012-04-22 23:00
 title: "Show and Tell #5 - Porting a Silverlight game to XNA"
 author: "@shiftkey"
