@@ -9,7 +9,7 @@ comments: true
 
 ## Introduction
 
-Mads sent through a blog post yesterday about how his experiment on porting a game from Silverlight to XNA.
+Mads sent through a [blog post](http://www.laumania.net/post/2012/04/21/My-show-and-tell-post.aspx) yesterday about how his experiment on porting a game from Silverlight to XNA.
 
 His starting point: a game called "We are Bugs" from [Jeff Weber](http://www.farseergames.com/). 
 
