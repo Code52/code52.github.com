@@ -13,7 +13,7 @@ I've been mulling over the contents of this post over the past couple of weeks -
 
 Last week @aeoth decided to step down from his role co-ordinating and contributing to the Code52 group. He's been a big part in many of the things we've built so far, and we wish him the best with his future endeavours.
 
-@shiftkey will be spending my weekends living in airports as part of the Windows 8 Dev Camps around Australia over the coming weeks - plus some other things which he will talk about in the future - so he will not be as contactable as he has been previously. Once he returns from holidays in July (after [dddSydney](http://dddsydney.com) in fact) the schedule starts to look more like that of a normal person.
+@shiftkey will be spending his weekends living in airports as part of the Windows 8 Dev Camps around Australia over the coming weeks - plus some other things which he will talk about in the future - so he will not be as contactable as he has been previously. Once he returns from holidays in July (after [dddSydney](http://dddsydney.com) in fact) the schedule starts to look more like that of a normal person.
 
 So with logistics getting tougher to organise each week, we want to adapt to the situation in front of us - for everyone's benefits.
 
