@@ -9,7 +9,7 @@ comments: true
 
 I've been mulling over the contents of this post over the past couple of weeks - while it's been an amazing experience thus far, a few events behind the scenes have triggered some changes.
 
-### Farewells and Distractions
+## Farewells and Distractions
 
 Last week @aeoth decided to step down from his role co-ordinating and contributing to the Code52 group. He's been a big part in many of the things we've built so far, and we wish him the best with his future endeavours.
 
@@ -17,7 +17,7 @@ Last week @aeoth decided to step down from his role co-ordinating and contributi
 
 So with logistics getting tougher to organise each week, we want to adapt to the situation in front of us - for everyone's benefits.
 
-### Rethinking the process
+## Rethinking the process
 
 So rather than continuing down this path to self-implosion, we want to try some changes to the process: 
 
@@ -26,7 +26,7 @@ So rather than continuing down this path to self-implosion, we want to try some 
  - We want to **help people become contributors**
  - We want to ensure that **everyone has fun and learns from the experience**
 
-### Nothing is set in stone
+## Nothing is set in stone
 
 Keep in mind that this is one big long experiment, and **we want you to get involved**. 
 
@@ -38,7 +38,7 @@ With this change, hopefully this frees projects up to evolve at their own pace a
 
 A complementary change to this is how we announce projects. Once we organise a project and a group of people to get involved, we aim to announce ahead of time (a week?) the project. This should give enough time for the group to get the groundwork in place, and give people who are following the action time to declare their interest and availability.
 
-### So what next?
+## So what next?
 
 @shiftkey has something he wants to kickstart - specifically [this idea](https://code52.uservoice.com/forums/143105-code-52/suggestions/2730885-git-heat-map-generator) - but until he gets some spare time (next week at best), now is the opportunity for people to take charge and get involved - **what do you want to build?**
 
@@ -46,7 +46,7 @@ A complementary change to this is how we announce projects. Once we organise a p
 
 And of course, the [JabbR](http://jabbr.net/#/rooms/code52) room also tracks conversation history - so you can drop in and see what people have been talking about previously or just hang out and chat.
 
-### This week: @shiftkey explains more
+## This week: @shiftkey explains more
 
 Over the course of this week, Brendan will discuss some of the philosophical goals in mind for Code52. While these are relatively simple goals, he will also discuss what we've learned so far and how we can improve things going forward.
 
