@@ -6,12 +6,3 @@ Links
 - http://code52.uservoice.com/ -- suggestions and voting
 
 
-Random slogans:
-
-- "new coding every week"
-- "coding fun and games"
-- "crowdsourcing software projects"
-- add your own
-
-
-
